@@ -1,0 +1,65 @@
+{
+  "chapter": 7,
+  "status": "passed",
+  "python_examples": [
+    {
+      "file": "7.1.1-多米诺理论与换零钱.md",
+      "status": "passed",
+      "stdout": "铺法与换零钱检查通过"
+    },
+    {
+      "file": "7.1.2-基本策略.md",
+      "status": "passed",
+      "stdout": "[0, 1, 3, 8, 21, 55, 144]"
+    },
+    {
+      "file": "7.1.3-解递归式.md",
+      "status": "passed",
+      "stdout": "[1, 1, 4, 5, 14, 23, 52, 97] 292 [1, 3, 8, 21, 55]"
+    },
+    {
+      "file": "7.1.4-特殊的生成函数.md",
+      "status": "passed",
+      "stdout": "调和系数与斯特林数检查通过"
+    },
+    {
+      "file": "7.1.5-卷积.md",
+      "status": "passed",
+      "stdout": "Fuss-Catalan 与多重卷积检查通过"
+    },
+    {
+      "file": "7.1.6-指数生成函数.md",
+      "status": "passed",
+      "stdout": "有标签树与幂和检查通过"
+    },
+    {
+      "file": "7.1.7-狄利克雷生成函数.md",
+      "status": "passed",
+      "stdout": "[1, 2, 3, 4, 6, 12] 4 0"
+    }
+  ],
+  "independent_exact_checks": {
+    "coin_tuple_enumeration": 201,
+    "coin_numerator": 1,
+    "coin_all_residues": 1001,
+    "domino_2_by_n": 11,
+    "domino_3_by_n": 11,
+    "fibonacci_convolution": 101,
+    "fibonacci_subsequence": 234,
+    "fan_spanning_trees": 8,
+    "stirling_second_egf": 225,
+    "stirling_first_egf": 225,
+    "eulerian_egf": 40,
+    "harmonic_convolution": 1326,
+    "generalized_binomial": 300,
+    "generalized_exponential": 300,
+    "raney_positive_words": 45,
+    "bernoulli_inverse": 12,
+    "dirichlet_mu_unit": 100,
+    "dirichlet_phi_identity": 100,
+    "multiplicativity_mu": 359,
+    "multiplicativity_phi": 359
+  },
+  "total_independent_checks": 4959,
+  "limitations": "Finite exact checks supplement, not replace, the general proofs and convergence conditions in the articles."
+}

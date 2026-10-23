@@ -1,0 +1,39 @@
+{
+  "date": "2026-10-23",
+  "checks": [
+    {
+      "note": "1.1.1-汉诺塔问题.md",
+      "printed_code": "passed",
+      "output": "圆盘 1: A -> C\n圆盘 2: A -> B\n圆盘 1: C -> B\n圆盘 3: A -> C\n圆盘 1: B -> A\n圆盘 2: B -> C\n圆盘 1: A -> C",
+      "characters": 3119
+    },
+    {
+      "hanoi": "legal moves n=0..8; independent shortest-path search n=0..6 passed"
+    },
+    {
+      "note": "1.1.2-平面上的直线.md",
+      "printed_code": "passed",
+      "output": "0 1\n1 2\n2 4\n3 7\n4 11\n5 16\n6 22",
+      "characters": 3513
+    },
+    {
+      "lines": "explicit general-position intersections and region increments n=0..30 passed"
+    },
+    {
+      "note": "1.1.3-约瑟夫问题.md",
+      "printed_code": "passed",
+      "output": "11\n1",
+      "characters": 5622
+    },
+    {
+      "josephus": "simulation n=1..500, bit rotation, fixed points, and power-of-two boundaries q=1..99 passed"
+    },
+    {
+      "repertoire": "64 parameter triples, n=1..200 passed"
+    },
+    {
+      "radix": "recurrence versus digit evaluation n=1..500; f(19)=103 passed"
+    }
+  ],
+  "result": "passed"
+}

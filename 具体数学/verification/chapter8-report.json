@@ -1,0 +1,83 @@
+{
+  "chapter": 8,
+  "date": "2026-10-23",
+  "examples": [
+    {
+      "file": "8.1.1-定义.md",
+      "result": "passed",
+      "stdout": "概率归一化、骰子分布和期望检查通过",
+      "source_sha256": "662b5acf03511f04e0c29b958037d2228342d721700342e8fa0117b17319a0e4"
+    },
+    {
+      "file": "8.1.2-均值和方差.md",
+      "result": "passed",
+      "stdout": "不动点矩与样本方差无偏性检查通过",
+      "source_sha256": "bec201d97f099db176f64fbdc320a1ff1b2f62a51b70f0a27a032b17c0a6c0ff"
+    },
+    {
+      "file": "8.1.3-概率生成函数.md",
+      "result": "passed",
+      "stdout": "骰子卷积与不动点概率生成函数检查通过",
+      "source_sha256": "b797c90523a49453b3c9afdddf8ed2467e61045d48c72299ce29dc7fd7b18ca8"
+    },
+    {
+      "file": "8.1.4-抛掷硬币.md",
+      "result": "passed",
+      "stdout": "模式矩与 HH 首次命中分布检查通过",
+      "source_sha256": "c48820957d457708c3d4170b57e4a4056754a3ca9c5b057476e38b123f3f5e0f"
+    },
+    {
+      "file": "8.1.5-散列法.md",
+      "result": "passed",
+      "stdout": "链式散列的均值、方差与全方差分解检查通过",
+      "source_sha256": "cabd47c7120e3c3f37cf37570b1495ec81a55427a14227222f3b73d08f08ec31"
+    }
+  ],
+  "independent_checks": [
+    {
+      "name": "Affine variance and Chebyshev on nonuniform discrete distributions",
+      "cases": 216,
+      "kind": "exact_rational",
+      "detail": "Enumerate 27 weighted three-point distributions, including exact threshold endpoints.",
+      "result": "passed"
+    },
+    {
+      "name": "Weighted sample means and unbiased variance",
+      "cases": 360,
+      "kind": "exact_rational",
+      "detail": "Enumerate all independent samples of lengths 2 to 5 from a nonuniform population.",
+      "result": "passed"
+    },
+    {
+      "name": "Fixed-point factorial moments and uniform PGFs",
+      "cases": 76,
+      "kind": "exact_rational",
+      "detail": "Raw permutation enumeration checks all factorial moments through order n+2.",
+      "result": "passed"
+    },
+    {
+      "name": "Arbitrary-pattern means and variances",
+      "cases": 378,
+      "kind": "exact_rational",
+      "detail": "Solve independent prefix-state linear systems for every H/T pattern of lengths 1 to 6, at three biases.",
+      "result": "passed"
+    },
+    {
+      "name": "Two-pattern race probability",
+      "cases": 56,
+      "kind": "exact_rational",
+      "detail": "Independent absorbing-state equations check Conway ratios for all ordered distinct pairs of length 3.",
+      "result": "passed"
+    },
+    {
+      "name": "Weighted hashing queries, conditional variance, and runtime branches",
+      "cases": 52,
+      "kind": "exact_rational",
+      "detail": "Enumerate actual chain contents, including empty tables, one bucket and nonuniform query weights.",
+      "result": "passed"
+    }
+  ],
+  "status": "passed",
+  "independent_case_total": 1138,
+  "scope": "Exact finite enumeration and independent linear algebra supplement the articles' general derivations. Finite checks do not replace proofs of limits or moment existence."
+}

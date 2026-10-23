@@ -1,0 +1,81 @@
+{
+  "chapter": 2,
+  "examples": [
+    {
+      "file": "2.1.1-记号.md",
+      "block": 1,
+      "result": "passed",
+      "output": "286 25/12"
+    },
+    {
+      "file": "2.1.2-和式和递归式.md",
+      "block": 1,
+      "result": "passed",
+      "output": "[Fraction(3, 1), Fraction(6, 1), Fraction(19, 2)]"
+    },
+    {
+      "file": "2.1.3-和式的处理.md",
+      "block": 1,
+      "result": "passed",
+      "output": "426"
+    },
+    {
+      "file": "2.1.4-多重和式.md",
+      "block": 1,
+      "result": "passed",
+      "output": "23870 6975593267347/77636318760"
+    },
+    {
+      "file": "2.1.5-一般性的方法.md",
+      "block": 1,
+      "result": "passed",
+      "output": "2870"
+    },
+    {
+      "file": "2.1.6-有限微积分和无限微积分.md",
+      "block": 1,
+      "result": "passed",
+      "output": "426"
+    },
+    {
+      "file": "2.1.7-无限和式.md",
+      "block": 1,
+      "result": "passed",
+      "output": "有限部分和与余项公式检查通过"
+    }
+  ],
+  "independent_checks": [
+    {
+      "name": "Iverson truth tables",
+      "cases": 4,
+      "result": "passed"
+    },
+    {
+      "name": "Nonconstant signed recurrence coefficients",
+      "cases": 1000,
+      "result": "passed"
+    },
+    {
+      "name": "Repertoire with independent parameters",
+      "cases": 2100,
+      "result": "passed"
+    },
+    {
+      "name": "Triangular index sets and symmetric sums",
+      "cases": 16,
+      "result": "passed"
+    },
+    {
+      "name": "Summation by parts and weighted harmonic sums",
+      "cases": 41,
+      "result": "passed"
+    },
+    {
+      "name": "Finite identities supporting infinite series arguments",
+      "cases": 86,
+      "result": "passed"
+    }
+  ],
+  "status": "passed",
+  "scope": "Exact finite checks complement, but do not replace, proofs of convergence and identities."
+}
