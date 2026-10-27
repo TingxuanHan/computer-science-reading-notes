@@ -1,0 +1,792 @@
+{
+  "book": "计算机程序设计艺术",
+  "packaged_date": "2026-10-27",
+  "note_count": 51,
+  "notes": [
+    {
+      "section": "0",
+      "volume": null,
+      "chapter": null,
+      "kind": "introduction",
+      "path": "00-导言.md",
+      "title": "【计算机程序设计艺术 TAOCP】0. 导言：从会写程序到理解算法",
+      "book_pages": null,
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第1卷）基本算法（第3版） 2002.pdf"
+      ],
+      "sha256": "763e3a71f7e966838ffc10926f1001fcfd88b5aac49acff9f0551085adcadbee",
+      "python_blocks": 1
+    },
+    {
+      "section": "1.1",
+      "volume": 1,
+      "chapter": 1,
+      "kind": "section",
+      "path": "第1卷-基本算法/第01章-基本概念/1.1-算法.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷1·1.1 算法：把每一步说清楚",
+      "book_pages": "1-8",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第1卷）基本算法（第3版） 2002.pdf"
+      ],
+      "sha256": "80edd207e57210eb098b39f16afe918efac0e271c40022d4184e1f2b5e15e205",
+      "python_blocks": 1
+    },
+    {
+      "section": "1.2",
+      "volume": 1,
+      "chapter": 1,
+      "kind": "section",
+      "path": "第1卷-基本算法/第01章-基本概念/1.2-数学准备.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷1·1.2 数学准备：从一个循环到精确分析",
+      "book_pages": "9-119",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第1卷）基本算法（第3版） 2002.pdf"
+      ],
+      "sha256": "858612e8aa088f79023b2770f6e9911fb52bad806bae357e8753da14152b88b7",
+      "python_blocks": 1
+    },
+    {
+      "section": "1.3",
+      "volume": 1,
+      "chapter": 1,
+      "kind": "section",
+      "path": "第1卷-基本算法/第01章-基本概念/1.3-MIX.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷1·1.3 MIX：把算法放进一台具体的机器",
+      "book_pages": "120-177",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第1卷）基本算法（第3版） 2002.pdf"
+      ],
+      "sha256": "c91491679de0582f3bdbd39b6df94167c03905554e9a120117ad263d36e715a5",
+      "python_blocks": 2
+    },
+    {
+      "section": "1.4",
+      "volume": 1,
+      "chapter": 1,
+      "kind": "section",
+      "path": "第1卷-基本算法/第01章-基本概念/1.4-某些基本程序设计技术.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷1·1.4 某些基本程序设计技术：调用、协作与解释",
+      "book_pages": "178-221",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第1卷）基本算法（第3版） 2002.pdf"
+      ],
+      "sha256": "e87da6b28e6f3431d9eebb7b23b5b2764147526e729761dc1a44e831d22cc3c5",
+      "python_blocks": 2
+    },
+    {
+      "section": "2.1",
+      "volume": 1,
+      "chapter": 2,
+      "kind": "section",
+      "path": "第1卷-基本算法/第02章-信息结构/2.1-引论.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷1·2.1 引论：数据之间的关系，怎样进入内存",
+      "book_pages": "222-226",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第1卷）基本算法（第3版） 2002.pdf"
+      ],
+      "sha256": "c24a98aa8d0bea44181fac9d78fa57921d4584945939ecd648c207889b3f41c9",
+      "python_blocks": 1
+    },
+    {
+      "section": "2.2",
+      "volume": 1,
+      "chapter": 2,
+      "kind": "section",
+      "path": "第1卷-基本算法/第02章-信息结构/2.2-线性表.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷1·2.2 线性表：一次插入的代价，取决于怎样存储",
+      "book_pages": "227-292",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第1卷）基本算法（第3版） 2002.pdf"
+      ],
+      "sha256": "3ce0d4d9f10f25b1038ed2fa27d9186c27d1faa2530267b256caf0c7eed59674",
+      "python_blocks": 2
+    },
+    {
+      "section": "2.3",
+      "volume": 1,
+      "chapter": 2,
+      "kind": "section",
+      "path": "第1卷-基本算法/第02章-信息结构/2.3-树.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷1·2.3 树：从遍历顺序到存储回收",
+      "book_pages": "293-398",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第1卷）基本算法（第3版） 2002.pdf"
+      ],
+      "sha256": "da0ed5f8a3fb7b857d0a673aa1ea46b1d3bf8a25e5a7c0079ced8856cf1ff7ba",
+      "python_blocks": 3
+    },
+    {
+      "section": "2.4",
+      "volume": 1,
+      "chapter": 2,
+      "kind": "section",
+      "path": "第1卷-基本算法/第02章-信息结构/2.4-多重链接结构.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷1·2.4 多重链接结构：一个名字，可能需要多条查找路径",
+      "book_pages": "399-408",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第1卷）基本算法（第3版） 2002.pdf"
+      ],
+      "sha256": "fd094807c277d808b67eba005f96f5e2b39ca021832df06ab9f263044ada89ad",
+      "python_blocks": 1
+    },
+    {
+      "section": "2.5",
+      "volume": 1,
+      "chapter": 2,
+      "kind": "section",
+      "path": "第1卷-基本算法/第02章-信息结构/2.5-动态存储分配.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷1·2.5 动态存储分配：空闲总量够，为什么还会失败",
+      "book_pages": "409-428",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第1卷）基本算法（第3版） 2002.pdf"
+      ],
+      "sha256": "9cae146cac4252118408363249477e579ba3e8178e46f271edfd637b3a71e944",
+      "python_blocks": 1
+    },
+    {
+      "section": "2.6",
+      "volume": 1,
+      "chapter": 2,
+      "kind": "section",
+      "path": "第1卷-基本算法/第02章-信息结构/2.6-历史和文献.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷1·2.6 历史和文献：数据结构是怎样从问题里长出来的",
+      "book_pages": "429-435",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第1卷）基本算法（第3版） 2002.pdf"
+      ],
+      "sha256": "7666409bb2597c3aa36f3f1a69d6aeb2f1cc86995097b7caab3b485f5e603c44",
+      "python_blocks": 0
+    },
+    {
+      "section": "3.1",
+      "volume": 2,
+      "chapter": 3,
+      "kind": "section",
+      "path": "第2卷-半数值算法/第03章-随机数/3.1-引言.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·3.1 引言：程序怎样产生“随机数”",
+      "book_pages": "1-8",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第2卷）半数值算法.pdf"
+      ],
+      "sha256": "e3461a1058aff3b11f304434055e2952b8e84e168135a84244867c57c3861b69",
+      "python_blocks": 1
+    },
+    {
+      "section": "3.2",
+      "volume": 2,
+      "chapter": 3,
+      "kind": "section",
+      "path": "第2卷-半数值算法/第03章-随机数/3.2-生成一致随机数.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·3.2 生成一致随机数：周期很长，为什么仍然不够",
+      "book_pages": "8-35",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第2卷）半数值算法.pdf"
+      ],
+      "sha256": "0ad0aef11811ebf500674a568fa834d1899ecdb0e93086c5089d964c1abc5b98",
+      "python_blocks": 1
+    },
+    {
+      "section": "3.3",
+      "volume": 2,
+      "chapter": 3,
+      "kind": "section",
+      "path": "第2卷-半数值算法/第03章-随机数/3.3-统计检验.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·3.3 统计检验：频数正常，能说明多少问题",
+      "book_pages": "35-104",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第2卷）半数值算法.pdf"
+      ],
+      "sha256": "86a29388d06428563abc8bbaab15bd34d82fb2d89bb36ed713f254eb9a9c5d61",
+      "python_blocks": 1
+    },
+    {
+      "section": "3.4",
+      "volume": 2,
+      "chapter": 3,
+      "kind": "section",
+      "path": "第2卷-半数值算法/第03章-随机数/3.4-其它类型的随机量.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·3.4 其它类型的随机量：从均匀数到分布、洗牌与抽样",
+      "book_pages": "104-131",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第2卷）半数值算法.pdf"
+      ],
+      "sha256": "6638da0a9b09b084c00ba8d6dcf79df742e8c048caf98f2b35ea2711ed5d7ae3",
+      "python_blocks": 1
+    },
+    {
+      "section": "3.5",
+      "volume": 2,
+      "chapter": 3,
+      "kind": "section",
+      "path": "第2卷-半数值算法/第03章-随机数/3.5-什么是随机序列.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·3.5 什么是随机序列：均匀、不可预测和不可压缩",
+      "book_pages": "131-163",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第2卷）半数值算法.pdf"
+      ],
+      "sha256": "559e2098f01aee4682f1715cc804fce43295d93ef7b77ea50056e48325bd7216",
+      "python_blocks": 1
+    },
+    {
+      "section": "3.6",
+      "volume": 2,
+      "chapter": 3,
+      "kind": "section",
+      "path": "第2卷-半数值算法/第03章-随机数/3.6-小结.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·3.6 小结：把随机数接进程序之前",
+      "book_pages": "163-174",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第2卷）半数值算法.pdf"
+      ],
+      "sha256": "8fba3e8042eb10f542e117e34b1bdf085bcbf8a1b9a688bf99703c2884fe4042",
+      "python_blocks": 1
+    },
+    {
+      "section": "4.1",
+      "volume": 2,
+      "chapter": 4,
+      "kind": "section",
+      "path": "第2卷-半数值算法/第04章-算术/4.1-定位计数系统.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·4.1 定位计数系统：同一个数，为什么有不同的运算法则",
+      "book_pages": "175-192",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第2卷）半数值算法.pdf"
+      ],
+      "sha256": "16eab1a2007d722e9788c086134fffc8a67dcbe5c47b6821b6aba9ff7575be82",
+      "python_blocks": 1
+    },
+    {
+      "section": "4.2",
+      "volume": 2,
+      "chapter": 4,
+      "kind": "section",
+      "path": "第2卷-半数值算法/第04章-算术/4.2-浮点算术.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·4.2 浮点算术：误差从哪里来，又怎样被放大",
+      "book_pages": "192-239",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第2卷）半数值算法.pdf"
+      ],
+      "sha256": "94c7b26ded3ab3afad7a50348696379b5a4547c35ef62c233b15092ad2229cc1",
+      "python_blocks": 1
+    },
+    {
+      "section": "4.3",
+      "volume": 2,
+      "chapter": 4,
+      "kind": "section",
+      "path": "第2卷-半数值算法/第04章-算术/4.3-多精度算术.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·4.3 多精度算术：把大整数拆开以后，怎样保证每一步正确",
+      "book_pages": "239-289",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第2卷）半数值算法.pdf"
+      ],
+      "sha256": "4c1a908c1c4dd9b57e1fc236d45c812d34955e2ad48ac6dde685c081b5451456",
+      "python_blocks": 1
+    },
+    {
+      "section": "4.4",
+      "volume": 2,
+      "chapter": 4,
+      "kind": "section",
+      "path": "第2卷-半数值算法/第04章-算术/4.4-进制转换.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·4.4 进制转换：整数取余，小数为什么要追踪余数",
+      "book_pages": "289-299",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第2卷）半数值算法.pdf"
+      ],
+      "sha256": "943a6c80a61589c36d97cf07809e1dcca480ecab12f904a93fa8a75dae13d7cb",
+      "python_blocks": 1
+    },
+    {
+      "section": "4.5",
+      "volume": 2,
+      "chapter": 4,
+      "kind": "section",
+      "path": "第2卷-半数值算法/第04章-算术/4.5-有理算术.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·4.5 有理算术：从约分到因子分解，整数怎样保持可控",
+      "book_pages": "299-380",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第2卷）半数值算法.pdf"
+      ],
+      "sha256": "29e3526fec5dd367d868917d01362b33a9785f64474cd9d48d69c56d251e7d22",
+      "python_blocks": 1
+    },
+    {
+      "section": "4.6",
+      "volume": 2,
+      "chapter": 4,
+      "kind": "section",
+      "path": "第2卷-半数值算法/第04章-算术/4.6-多项式算术.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·4.6 多项式算术：除法、因子分解与求值怎样连起来",
+      "book_pages": "380-480",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第2卷）半数值算法.pdf"
+      ],
+      "sha256": "0d4a1fe4ff4ab0a03f817790f1e8fd552278dbeb98c264570cbd3bc4b9d75445",
+      "python_blocks": 1
+    },
+    {
+      "section": "4.7",
+      "volume": 2,
+      "chapter": 4,
+      "kind": "section",
+      "path": "第2卷-半数值算法/第04章-算术/4.7-幂级数的操作.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·4.7 幂级数的操作：只算有限项，怎样处理无限表达式",
+      "book_pages": "480-491",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第2卷）半数值算法.pdf"
+      ],
+      "sha256": "d0d884a64f4a9e3e9ac66cf65ad7ba200165b482cb3c8820d381d9ab390ba7aa",
+      "python_blocks": 1
+    },
+    {
+      "section": "5.1",
+      "volume": 3,
+      "chapter": 5,
+      "kind": "section",
+      "path": "第3卷-排序与查找/第05章-排序/5.1-排列的组合性质.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷3·5.1 排列的组合性质：排序之前，先量一量输入有多乱",
+      "book_pages": "9-68",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第3卷）排序与查找.pdf"
+      ],
+      "sha256": "2a347c99ddf69e6ff2ece18d7e7951cbeff9f5de35c82d79602d91fc58a7ab89",
+      "python_blocks": 1
+    },
+    {
+      "section": "5.2",
+      "volume": 3,
+      "chapter": 5,
+      "kind": "section",
+      "path": "第3卷-排序与查找/第05章-排序/5.2-内部排序.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷3·5.2 内部排序：比较、移动和稳定性，分别要付出多少代价",
+      "book_pages": "68-170",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第3卷）排序与查找.pdf"
+      ],
+      "sha256": "a6032ad6c634a51980952f500ea43bd6400ebd2270fa6107a16c73b9e1090afb",
+      "python_blocks": 1
+    },
+    {
+      "section": "5.3",
+      "volume": 3,
+      "chapter": 5,
+      "kind": "section",
+      "path": "第3卷-排序与查找/第05章-排序/5.3-最优排序.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷3·5.3 最优排序：知道下界以后，为什么还不能宣布最优",
+      "book_pages": "170-233",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第3卷）排序与查找.pdf"
+      ],
+      "sha256": "3a74342517c5142604898ba30c57317c7c7deb8501e7c6abfcc4c49b02ef7e82",
+      "python_blocks": 1
+    },
+    {
+      "section": "5.4",
+      "volume": 3,
+      "chapter": 5,
+      "kind": "section",
+      "path": "第3卷-排序与查找/第05章-排序/5.4-外部排序.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷3·5.4 外部排序：数据装不进内存时，怎样少读写几遍",
+      "book_pages": "234-355",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第3卷）排序与查找.pdf"
+      ],
+      "sha256": "148ba852cb45e041dfaca8da32999813353c9747cde810279687abdf3135b0de",
+      "python_blocks": 1
+    },
+    {
+      "section": "5.5",
+      "volume": 3,
+      "chapter": 5,
+      "kind": "section",
+      "path": "第3卷-排序与查找/第05章-排序/5.5-小结历史和文献目录.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷3·5.5 小结、历史和文献目录：怎样读懂一张排序性能表",
+      "book_pages": "355-365",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第3卷）排序与查找.pdf"
+      ],
+      "sha256": "4ca37f4a3f68f4e7a30735cdc5684beb0d087bc2330616397167a9090f338167",
+      "python_blocks": 1
+    },
+    {
+      "section": "6.1",
+      "volume": 3,
+      "chapter": 6,
+      "kind": "section",
+      "path": "第3卷-排序与查找/第06章-查找/6.1-顺序查找.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷3·6.1 顺序查找：从逐项比较，到把常用记录放在前面",
+      "book_pages": "369-380",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第3卷）排序与查找.pdf"
+      ],
+      "sha256": "1c219b1e8c268ef927d226a6d2854284a6a200f1ae7eecdec28e81a448cd56fe",
+      "python_blocks": 1
+    },
+    {
+      "section": "6.2",
+      "volume": 3,
+      "chapter": 6,
+      "kind": "section",
+      "path": "第3卷-排序与查找/第06章-查找/6.2-通过键码比较进行查找.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷3·6.2 通过键码比较进行查找：二分、查找树与平衡，各自解决什么问题",
+      "book_pages": "380-458",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第3卷）排序与查找.pdf"
+      ],
+      "sha256": "998095158e417265c806a634836e1ec28b69d85a9d5aa478787c14179ed82de7",
+      "python_blocks": 1
+    },
+    {
+      "section": "6.3",
+      "volume": 3,
+      "chapter": 6,
+      "kind": "section",
+      "path": "第3卷-排序与查找/第06章-查找/6.3-数字查找.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷3·6.3 数字查找：把键码拆成字符，怎样沿前缀找到记录",
+      "book_pages": "458-478",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第3卷）排序与查找.pdf"
+      ],
+      "sha256": "bb748d5bb1aeb6a313e8d9953116c9a7ce5c5e833a85ffa89617824407b5811e",
+      "python_blocks": 1
+    },
+    {
+      "section": "6.4",
+      "volume": 3,
+      "chapter": 6,
+      "kind": "section",
+      "path": "第3卷-排序与查找/第06章-查找/6.4-散列.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷3·6.4 散列：地址算出来以后，冲突和删除怎么办",
+      "book_pages": "478-520",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第3卷）排序与查找.pdf"
+      ],
+      "sha256": "dac30d80b96b79f657a1141269c04f47d34c008596d27466e1b1ba0d716f90da",
+      "python_blocks": 1
+    },
+    {
+      "section": "6.5",
+      "volume": 3,
+      "chapter": 6,
+      "kind": "section",
+      "path": "第3卷-排序与查找/第06章-查找/6.5-利用辅助键码的查找.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷3·6.5 利用辅助键码的查找：从一条记录，走向一组条件",
+      "book_pages": "521-543",
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第3卷）排序与查找.pdf"
+      ],
+      "sha256": "b8bb3d9d056f89d8ad5a3e7e0df366b0e9632fbf7339ab3cf0919c1b195b38fa",
+      "python_blocks": 1
+    },
+    {
+      "section": "7.1",
+      "volume": 4,
+      "chapter": 7,
+      "kind": "overview",
+      "path": "第4卷-组合算法/第07章-组合查找/7.1-0和1.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷4·7.1 0和1：从布尔函数到位运算，再到二叉判定图",
+      "book_pages": null,
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第4卷）第0册（双语版）组合算法与布尔函数概论.pdf",
+        "计算机程序设计艺术（第4卷）第1册A Bitwise tricks and techniques.pdf",
+        "计算机程序设计艺术（第4卷）第1册B Binary decision diagrams.pdf"
+      ],
+      "sha256": "4d2d8ff91f0d002c5d70377a7480c85f352723e8cad586c0e420a85422bfb1d0",
+      "python_blocks": 1
+    },
+    {
+      "section": "7.1.1",
+      "volume": 4,
+      "chapter": 7,
+      "kind": "section",
+      "path": "第4卷-组合算法/第07章-组合查找/7.1.1-布尔基础.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷4·7.1.1 布尔基础：从真值表到范式、规则传播与2-SAT",
+      "book_pages": "274-302",
+      "pdf_pages": "285-313",
+      "source_documents": [
+        "计算机程序设计艺术（第4卷）第0册（双语版）组合算法与布尔函数概论.pdf"
+      ],
+      "sha256": "a4528bccc8b9f5ffae94b441dfb5dc33a96c6cd2e2a98df7e5eb4372238a24a5",
+      "python_blocks": 3
+    },
+    {
+      "section": "7.1.2",
+      "volume": 4,
+      "chapter": 7,
+      "kind": "section",
+      "path": "第4卷-组合算法/第07章-组合查找/7.1.2-布尔求值.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷4·7.1.2 布尔求值：从最短计算链到共享、分解与复杂度下界",
+      "book_pages": "321-347",
+      "pdf_pages": "332-358",
+      "source_documents": [
+        "计算机程序设计艺术（第4卷）第0册（双语版）组合算法与布尔函数概论.pdf"
+      ],
+      "sha256": "ee5a8c4db664365c49b10dcc8182e6ad92dc6190ee8e6d4e4fad63f6080bfdea",
+      "python_blocks": 1,
+      "standalone_example": "verification/taocp_7_1_2_examples.py"
+    },
+    {
+      "section": "7.1.3",
+      "volume": 4,
+      "chapter": 7,
+      "kind": "section",
+      "path": "第4卷-组合算法/第07章-组合查找/7.1.3-位运算技巧与技术.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷4·7.1.3 位运算技巧与技术：从最低位到字内并行与位矩阵",
+      "book_pages": "1-51",
+      "pdf_pages": "6-56",
+      "source_documents": [
+        "计算机程序设计艺术（第4卷）第1册A Bitwise tricks and techniques.pdf"
+      ],
+      "sha256": "44d360e25106592430173f26373d07471932e16a2b4a662e9b37060725195062",
+      "python_blocks": 3,
+      "standalone_example": "verification/taocp_7_1_3_examples.py"
+    },
+    {
+      "section": "7.1.4",
+      "volume": 4,
+      "chapter": 7,
+      "kind": "section",
+      "path": "第4卷-组合算法/第07章-组合查找/7.1.4-二叉判定图.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷4·7.1.4 二叉判定图：共享子函数、计算解的个数与变量顺序",
+      "book_pages": "0-56",
+      "pdf_pages": "8-64",
+      "source_documents": [
+        "计算机程序设计艺术（第4卷）第1册B Binary decision diagrams.pdf"
+      ],
+      "sha256": "770e1367402dc90fa2baee196d3eb69a9309a35b171415471eea2179ebce7aff",
+      "python_blocks": 1,
+      "standalone_example": "verification/taocp_7_1_4_examples.py"
+    },
+    {
+      "section": "7.2",
+      "volume": 4,
+      "chapter": 7,
+      "kind": "overview",
+      "path": "第4卷-组合算法/第07章-组合查找/7.2-生成所有可能性.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷4·7.2 生成所有可能性：从有序枚举到回溯、精确覆盖与SAT",
+      "book_pages": null,
+      "pdf_pages": null,
+      "source_documents": [
+        "计算机程序设计艺术（第4卷）第2册（双语版）生成所有元组和排列.pdf",
+        "计算机程序设计艺术（第4卷）第3册（双语版）生成所有组合和分划.pdf",
+        "计算机程序设计艺术（第4卷）第4册（双语版）生成所有树组合生成和历史.pdf",
+        "计算机程序设计艺术（第4卷）第5册B Backtrack Programming.pdf",
+        "计算机程序设计艺术（第4卷）第5册C Dancing Links.pdf",
+        "计算机程序设计艺术（第4卷）第6册A Satisfiability.pdf"
+      ],
+      "sha256": "c6a25dd8eed28c82b1454aa872a91188f5304ca306b94817993ee124d0461921",
+      "python_blocks": 3
+    },
+    {
+      "section": "7.2.1.1",
+      "volume": 4,
+      "chapter": 7,
+      "kind": "section",
+      "path": "第4卷-组合算法/第07章-组合查找/7.2.1.1-生成所有元组.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷4·7.2.1.1 生成所有元组：混合进制、格雷码与德布鲁因循环",
+      "book_pages": "132-169",
+      "pdf_pages": "137-174",
+      "source_documents": [
+        "计算机程序设计艺术（第4卷）第2册（双语版）生成所有元组和排列.pdf"
+      ],
+      "sha256": "98dbbff00e2edc8476da106e3a6a9153afab8e34ce15c980a1457b0928692e55",
+      "python_blocks": 1,
+      "standalone_example": "verification/taocp_7_2_1_1_examples.py"
+    },
+    {
+      "section": "7.2.1.2",
+      "volume": 4,
+      "chapter": 7,
+      "kind": "section",
+      "path": "第4卷-组合算法/第07章-组合查找/7.2.1.2-生成所有排列.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷4·7.2.1.2 生成所有排列：字典序、相邻交换与排列编号",
+      "book_pages": "170-204",
+      "pdf_pages": "175-209",
+      "source_documents": [
+        "计算机程序设计艺术（第4卷）第2册（双语版）生成所有元组和排列.pdf"
+      ],
+      "sha256": "dfb43014df1e29e66ace0c53af20a19595c04a478de66195ae79933ca57fa789",
+      "python_blocks": 1,
+      "standalone_example": "verification/taocp_7_2_1_2_examples.py"
+    },
+    {
+      "section": "7.2.1.3",
+      "volume": 4,
+      "chapter": 7,
+      "kind": "section",
+      "path": "第4卷-组合算法/第07章-组合查找/7.2.1.3-生成所有组合.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷4·7.2.1.3 生成所有组合：字典序、组合数编号与转门顺序",
+      "book_pages": "154-187",
+      "pdf_pages": "161-194",
+      "source_documents": [
+        "计算机程序设计艺术（第4卷）第3册（双语版）生成所有组合和分划.pdf"
+      ],
+      "sha256": "c24d49755bbb8bc2b67d8b6d25c763b43b7c451b9c1c6fe77503edd19fe0c6f2",
+      "python_blocks": 1,
+      "standalone_example": "verification/taocp_7_2_1_3_examples.py"
+    },
+    {
+      "section": "7.2.1.4",
+      "volume": 4,
+      "chapter": 7,
+      "kind": "section",
+      "path": "第4卷-组合算法/第07章-组合查找/7.2.1.4-生成所有整数分划.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷4·7.2.1.4 生成所有整数分划：从规范顺序到共轭与生成函数",
+      "book_pages": "188-212",
+      "pdf_pages": "195-219",
+      "source_documents": [
+        "计算机程序设计艺术（第4卷）第3册（双语版）生成所有组合和分划.pdf"
+      ],
+      "sha256": "9dfba8d1c0e289f192e170c3b8b5053a3225a8c72cdb5d2d25da092229306af2",
+      "python_blocks": 1,
+      "standalone_example": "verification/taocp_7_2_1_4_examples.py"
+    },
+    {
+      "section": "7.2.1.5",
+      "volume": 4,
+      "chapter": 7,
+      "kind": "section",
+      "path": "第4卷-组合算法/第07章-组合查找/7.2.1.5-生成所有集合分划.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷4·7.2.1.5 生成所有集合分划：受限增长串、Bell数与按编号定位",
+      "book_pages": "212-237",
+      "pdf_pages": "219-244",
+      "source_documents": [
+        "计算机程序设计艺术（第4卷）第3册（双语版）生成所有组合和分划.pdf"
+      ],
+      "sha256": "d6b82b3625caa88dc3b9d6fc220325128d5b9164f41364a1f46d203744211f25",
+      "python_blocks": 1,
+      "standalone_example": "verification/taocp_7_2_1_5_examples.py"
+    },
+    {
+      "section": "7.2.1.6",
+      "volume": 4,
+      "chapter": 7,
+      "kind": "section",
+      "path": "第4卷-组合算法/第07章-组合查找/7.2.1.6-生成所有树.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷4·7.2.1.6 生成所有树：括号编码、Catalan计数与均匀采样",
+      "book_pages": "121-162",
+      "pdf_pages": "127-168",
+      "source_documents": [
+        "计算机程序设计艺术（第4卷）第4册（双语版）生成所有树组合生成和历史.pdf"
+      ],
+      "sha256": "e5564e094572ad4c42809d674716c87077aaa46209efbfafc81023e3e2528800",
+      "python_blocks": 1,
+      "standalone_example": "verification/taocp_7_2_1_6_examples.py"
+    },
+    {
+      "section": "7.2.1.7",
+      "volume": 4,
+      "chapter": 7,
+      "kind": "section",
+      "path": "第4卷-组合算法/第07章-组合查找/7.2.1.7-组合生成的历史与参考.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷4·7.2.1.7 组合生成的历史与参考：从模式清单到生成算法",
+      "book_pages": "162-187",
+      "pdf_pages": "168-193",
+      "source_documents": [
+        "计算机程序设计艺术（第4卷）第4册（双语版）生成所有树组合生成和历史.pdf"
+      ],
+      "sha256": "a3e646cb79465084ebcb0aa95a4b288c7c215f61c7cb8edf758622d141c38e36",
+      "python_blocks": 1,
+      "standalone_example": "verification/taocp_7_2_1_7_examples.py"
+    },
+    {
+      "section": "7.2.2",
+      "volume": 4,
+      "chapter": 7,
+      "kind": "section",
+      "path": "第4卷-组合算法/第07章-组合查找/7.2.2-回溯程序设计.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷4·7.2.2 回溯程序设计：约束、状态恢复与搜索树成本",
+      "book_pages": "2-26",
+      "pdf_pages": "7-31",
+      "source_documents": [
+        "计算机程序设计艺术（第4卷）第5册B Backtrack Programming.pdf"
+      ],
+      "sha256": "d04a2f1f97fe7beebe8da0138c3cc2fa8bd1874fa99e6a6a20b56470bed23cd4",
+      "python_blocks": 1,
+      "standalone_example": "verification/taocp_7_2_2_examples.py"
+    },
+    {
+      "section": "7.2.2.1",
+      "volume": 4,
+      "chapter": 7,
+      "kind": "section",
+      "path": "第4卷-组合算法/第07章-组合查找/7.2.2.1-舞蹈链与精确覆盖.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷4·7.2.2.1 舞蹈链与精确覆盖：删除之后，怎样准确恢复",
+      "book_pages": "1-5",
+      "pdf_pages": "6-10",
+      "source_documents": [
+        "计算机程序设计艺术（第4卷）第5册C Dancing Links.pdf"
+      ],
+      "sha256": "1f57d0696f4161bee21e5c0b945b70e852af4b4100407a2ade42e5d337099042",
+      "python_blocks": 1,
+      "standalone_example": "verification/taocp_7_2_2_1_examples.py"
+    },
+    {
+      "section": "7.2.2.2",
+      "volume": 4,
+      "chapter": 7,
+      "kind": "section",
+      "path": "第4卷-组合算法/第07章-组合查找/7.2.2.2-可满足性SAT.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷4·7.2.2.2 可满足性SAT：从约束编码到传播、学习与搜索",
+      "book_pages": "1-133",
+      "pdf_pages": "9-141",
+      "source_documents": [
+        "计算机程序设计艺术（第4卷）第6册A Satisfiability.pdf"
+      ],
+      "sha256": "ec4d522fb5baba65d208e1e50910600a13aeb3c20c90b6a4ccdd1f68fe81c62a",
+      "python_blocks": 1,
+      "standalone_example": "verification/taocp_7_2_2_2_examples.py"
+    },
+    {
+      "section": "MPR",
+      "volume": 4,
+      "chapter": null,
+      "kind": "supplement",
+      "path": "第4卷-组合算法/MPR-数学准备再探.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷4·MPR 数学准备再探：从条件期望到鞅与概率尾界",
+      "book_pages": "1-12",
+      "pdf_pages": "7-18",
+      "source_documents": [
+        "计算机程序设计艺术（第4卷）第5册A Mathematical Preliminaries Redux.pdf"
+      ],
+      "sha256": "fa6db28fc674d76e5fd94a291f91c74db2cb22c22788d071bdaf785fcc5d5e1d",
+      "python_blocks": 1
+    }
+  ]
+}

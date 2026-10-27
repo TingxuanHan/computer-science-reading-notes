@@ -1,0 +1,13 @@
+{
+  "section": "7.1.2",
+  "date": "2026-10-27",
+  "status": "passed",
+  "checks": {
+    "binary_gate_truth_checks": 4096,
+    "mux_minimum_gates": 3,
+    "exact_two_assignments": 16,
+    "full_adder_assignments": 8,
+    "complete_decompositions": 1536,
+    "partial_column_tables": 6561
+  }
+}

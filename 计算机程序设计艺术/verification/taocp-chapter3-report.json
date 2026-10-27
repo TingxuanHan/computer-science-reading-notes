@@ -1,0 +1,91 @@
+{
+  "source": "sources/taocp/计算机程序设计艺术（第2卷）半数值算法.pdf",
+  "edition": "Volume 2, third edition, Chinese, 2002",
+  "articles": [
+    {
+      "filename": "3.1-引言.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·3.1 引言：程序怎样产生“随机数”",
+      "body_characters": 4197,
+      "python_blocks": 1,
+      "sha256": "26f5e7863414e165102de87910b383427339474e88a59c78b0c7f942f1e886ee",
+      "example_output": "[6100, 2100, 4100, 8100] 0 4\n([1000, 0], 1, 1)"
+    },
+    {
+      "filename": "3.2-生成一致随机数.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·3.2 生成一致随机数：周期很长，为什么仍然不够",
+      "body_characters": 4914,
+      "python_blocks": 1,
+      "sha256": "89135259d94d3d3f036862e265b5e0b25c1ae0864343532df29280770a24c9cd",
+      "example_output": "True 16\n[0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1]\n5"
+    },
+    {
+      "filename": "3.3-统计检验.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·3.3 统计检验：频数正常，能说明多少问题",
+      "body_characters": 4725,
+      "python_blocks": 1,
+      "sha256": "ed03900cf9b5aaf368ef4bae49841b38946b61b2bb93cefe370418b2694116ea",
+      "example_output": "0\n[0, 200, 0, 0] 600\n('1/8', '1/8')"
+    },
+    {
+      "filename": "3.4-其它类型的随机量.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·3.4 其它类型的随机量：从均匀数到分布、洗牌与抽样",
+      "body_characters": 5951,
+      "python_blocks": 1,
+      "sha256": "3e1009813959ab0101257ef10ead4eb0dcb4731a4490e555a840cb218e304d0a",
+      "example_output": "5\n['B', 'A', 'C']\n['C', 'E']\n0.346574"
+    },
+    {
+      "filename": "3.5-什么是随机序列.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·3.5 什么是随机序列：均匀、不可预测和不可压缩",
+      "body_characters": 4446,
+      "python_blocks": 1,
+      "sha256": "c9cb9245d40deb176a7f6793192df3fcb3484d40f09470017b0c6ba25067e55d",
+      "example_output": "1 2 4 4\n2 4 2 2\n3 8 1 1\n4 8 0 1\nperiod-8 predictor: 64 / 64"
+    },
+    {
+      "filename": "3.6-小结.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·3.6 小结：把随机数接进程序之前",
+      "body_characters": 5000,
+      "python_blocks": 1,
+      "sha256": "04312412ec38b8e0c2efcd5e61308e074672ae21639879d239213b179191dc95",
+      "example_output": "[48271, 182605794, 1291394886]\nTrue\n8"
+    }
+  ],
+  "checks": {
+    "middle_square": {
+      "all_states": 10000,
+      "floyd_oracles": 104
+    },
+    "lcg": {
+      "exhaustive_parameter_seed_cases": 29240,
+      "iterative_jump_oracles": 5000,
+      "large_step_composition_cases": 5000
+    },
+    "statistics": {
+      "chi_exact_oracles": 1000,
+      "ks_jump_oracles": 1000,
+      "pathological_pair_chi_square": 600,
+      "p_values_claimed": false
+    },
+    "transformations": {
+      "exact_rejection_mappings": 2080,
+      "shuffle_paths": 5914,
+      "shuffle_max_n": 7,
+      "reservoir_paths": 10166,
+      "reservoir_max_n": 7,
+      "exponential_cdf_round_trips": 28
+    },
+    "finite_sequence": {
+      "rotations_and_complements": 16,
+      "all_three_bit_words": 8,
+      "four_bit_words_present": 8,
+      "period": 8
+    },
+    "replay": {
+      "consecutive_modular_oracles": 100000,
+      "single_step_seed_oracles": 10005,
+      "checkpoint_round_trips": 5
+    }
+  },
+  "all_passed": true
+}

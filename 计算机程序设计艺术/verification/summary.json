@@ -1,0 +1,582 @@
+{
+  "verified_at": "2026-10-27T15:21:30+08:00",
+  "timezone": "Asia/Shanghai",
+  "python_version": "3.12.14",
+  "all_passed": true,
+  "note_count": 51,
+  "python_blocks": 61,
+  "layout": {
+    "note_count": 51,
+    "local_links_checked": 157,
+    "standalone_examples_matched": 13,
+    "note_hashes_match": true
+  },
+  "notes": [
+    {
+      "section": "0",
+      "path": "00-导言.md",
+      "status": "passed",
+      "seconds": 0.085,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "17"
+    },
+    {
+      "section": "1.1",
+      "path": "第1卷-基本算法/第01章-基本概念/1.1-算法.md",
+      "status": "passed",
+      "seconds": 0.085,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "21\n[(252, 105, 2, 42), (105, 42, 2, 21), (42, 21, 2, 0)]"
+    },
+    {
+      "section": "1.2",
+      "path": "第1卷-基本算法/第01章-基本概念/1.2-数学准备.md",
+      "status": "passed",
+      "seconds": 0.089,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "(5, 4, 0)\n(5, 2, 0)\n5/6 17/36"
+    },
+    {
+      "section": "1.3",
+      "path": "第1卷-基本算法/第01章-基本概念/1.3-MIX.md",
+      "status": "passed",
+      "seconds": 0.096,
+      "python_blocks": 2,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "(-1, (0, 0, 1, 2, 3))\n(1, (0, 0, 2, 3, 4))\n(-1, (0, 0, 0, 0, 0))\n(-1, (1, 6, 5, 4, 5))\n['c', 'a', 'b', 'e', 'd']"
+    },
+    {
+      "section": "1.4",
+      "path": "第1卷-基本算法/第01章-基本概念/1.4-某些基本程序设计技术.md",
+      "status": "passed",
+      "seconds": 0.104,
+      "python_blocks": 2,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "12\n[15, 60, 58]\n20\n(2, 'ADD', (2, 3))"
+    },
+    {
+      "section": "2.1",
+      "path": "第1卷-基本算法/第02章-信息结构/2.1-引论.md",
+      "status": "passed",
+      "seconds": 0.1,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "['写摘要', '校对公式', '检查代码']\n['确定范围', '写摘要', '校对公式', '检查代码']"
+    },
+    {
+      "section": "2.2",
+      "path": "第1卷-基本算法/第02章-信息结构/2.2-线性表.md",
+      "status": "passed",
+      "seconds": 0.084,
+      "python_blocks": 2,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "A\n['B', 'C', 'D']\n['B', 'C', 'D']\n[(2, 7), (1, 2)]"
+    },
+    {
+      "section": "2.3",
+      "path": "第1卷-基本算法/第02章-信息结构/2.3-树.md",
+      "status": "passed",
+      "seconds": 0.086,
+      "python_blocks": 3,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "A B D C E\nB D A E C\nD B E C A\n(5, 6, 16)\n[3, 4, 5]"
+    },
+    {
+      "section": "2.4",
+      "path": "第1卷-基本算法/第02章-信息结构/2.4-多重链接结构.md",
+      "status": "passed",
+      "seconds": 0.081,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "True\nTrue\n2\n[]"
+    },
+    {
+      "section": "2.5",
+      "path": "第1卷-基本算法/第02章-信息结构/2.5-动态存储分配.md",
+      "status": "passed",
+      "seconds": 0.083,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "[(0, 8), (16, 16)]\ntotal free = 24, largest block = 16\n16 [(0, 8), (28, 4)]\n[(0, 32)]"
+    },
+    {
+      "section": "2.6",
+      "path": "第1卷-基本算法/第02章-信息结构/2.6-历史和文献.md",
+      "status": "passed",
+      "seconds": 0.081,
+      "python_blocks": 0,
+      "code_status": "not_applicable",
+      "contextual_checks": {},
+      "output": ""
+    },
+    {
+      "section": "3.1",
+      "path": "第2卷-半数值算法/第03章-随机数/3.1-引言.md",
+      "status": "passed",
+      "seconds": 0.084,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "[6100, 2100, 4100, 8100] 0 4\n([1000, 0], 1, 1)"
+    },
+    {
+      "section": "3.2",
+      "path": "第2卷-半数值算法/第03章-随机数/3.2-生成一致随机数.md",
+      "status": "passed",
+      "seconds": 0.079,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "True 16\n[0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1]\n5"
+    },
+    {
+      "section": "3.3",
+      "path": "第2卷-半数值算法/第03章-随机数/3.3-统计检验.md",
+      "status": "passed",
+      "seconds": 0.083,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "0\n[0, 200, 0, 0] 600\n('1/8', '1/8')"
+    },
+    {
+      "section": "3.4",
+      "path": "第2卷-半数值算法/第03章-随机数/3.4-其它类型的随机量.md",
+      "status": "passed",
+      "seconds": 0.077,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "5\n['B', 'A', 'C']\n['C', 'E']\n0.346574"
+    },
+    {
+      "section": "3.5",
+      "path": "第2卷-半数值算法/第03章-随机数/3.5-什么是随机序列.md",
+      "status": "passed",
+      "seconds": 0.083,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "1 2 4 4\n2 4 2 2\n3 8 1 1\n4 8 0 1\nperiod-8 predictor: 64 / 64"
+    },
+    {
+      "section": "3.6",
+      "path": "第2卷-半数值算法/第03章-随机数/3.6-小结.md",
+      "status": "passed",
+      "seconds": 0.082,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "[48271, 182605794, 1291394886]\nTrue\n8"
+    },
+    {
+      "section": "4.1",
+      "path": "第2卷-半数值算法/第04章-算术/4.1-定位计数系统.md",
+      "status": "passed",
+      "seconds": 0.083,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "[1, 1, 0, 1, 1, 1]\n[1, 0, -1]\n-13\n-128"
+    },
+    {
+      "section": "4.2",
+      "path": "第2卷-半数值算法/第04章-算术/4.2-浮点算术.md",
+      "status": "passed",
+      "seconds": 0.133,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "0 1\n1/2000 0\n31/25\n63/50"
+    },
+    {
+      "section": "4.3",
+      "path": "第2卷-半数值算法/第04章-算术/4.3-多精度算术.md",
+      "status": "passed",
+      "seconds": 0.124,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "4001620161\n1031 16\n173"
+    },
+    {
+      "section": "4.4",
+      "path": "第2卷-半数值算法/第04章-算术/4.4-进制转换.md",
+      "status": "passed",
+      "seconds": 0.124,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "[4, 3]\n[0, 0, 1] []\n[0] [0, 0, 1, 1]\n[0, 8] [3]"
+    },
+    {
+      "section": "4.5",
+      "path": "第2卷-半数值算法/第04章-算术/4.5-有理算术.md",
+      "status": "passed",
+      "seconds": 0.132,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "(15, 4)\n(67, 44)\n2 -9 47 2\n[2, 2, 2, 3, 3, 5]"
+    },
+    {
+      "section": "4.6",
+      "path": "第2卷-半数值算法/第04章-算术/4.6-多项式算术.md",
+      "status": "passed",
+      "seconds": 0.154,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "['-1', '1', '1'] ['3']\n8 10\n['-1', '1']\n32768 6"
+    },
+    {
+      "section": "4.7",
+      "path": "第2卷-半数值算法/第04章-算术/4.7-幂级数的操作.md",
+      "status": "passed",
+      "seconds": 0.149,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "['1', '1', '2', '3', '5', '8', '13', '21']\n['1', '1', '1/2', '1/6', '1/24', '1/120']\n['0', '1', '1', '2', '5', '14', '42']"
+    },
+    {
+      "section": "5.1",
+      "path": "第3卷-排序与查找/第05章-排序/5.1-排列的组合性质.md",
+      "status": "passed",
+      "seconds": 0.107,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "[1, 2, 0, 0] 3\n[3, 1, 4, 2]\n([[1, 2], [3, 4]], [[1, 3], [2, 4]])\n[1, 11, 11, 1]"
+    },
+    {
+      "section": "5.2",
+      "path": "第3卷-排序与查找/第05章-排序/5.2-内部排序.md",
+      "status": "passed",
+      "seconds": 0.1,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "[(4, 'B'), (4, 'E'), (13, 'D'), (21, 'A'), (21, 'C')] 9 6\nTrue True"
+    },
+    {
+      "section": "5.3",
+      "path": "第3卷-排序与查找/第05章-排序/5.3-最优排序.md",
+      "status": "passed",
+      "seconds": 0.11,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "5 5 16 24\n(0, 1, 0, 1)\n(1, 9, 7)"
+    },
+    {
+      "section": "5.4",
+      "path": "第3卷-排序与查找/第05章-排序/5.4-外部排序.md",
+      "status": "passed",
+      "seconds": 0.101,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "[[3, 7, 8], [1, 2, 4, 5, 6, 9], [0]]\n3 [3, 2, 1]\n[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]\n3 2"
+    },
+    {
+      "section": "5.5",
+      "path": "第3卷-排序与查找/第05章-排序/5.5-小结历史和文献目录.md",
+      "status": "passed",
+      "seconds": 0.095,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "ordered (7, 7) (28, 0)\n0 (7, 28)\n4 (35, 28)\nreversed (28, 35) (28, 8)\n0 (28, 28)\n4 (168, 60)"
+    },
+    {
+      "section": "6.1",
+      "path": "第3卷-排序与查找/第06章-查找/6.1-顺序查找.md",
+      "status": "passed",
+      "seconds": 0.092,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "(-1, 3) (-1, 4)\n5/3 7/3\n['B', 'A', 'C'] 35/6 14/3\n(2, True) [7, 4, 9]"
+    },
+    {
+      "section": "6.2",
+      "path": "第3卷-排序与查找/第06章-查找/6.2-通过键码比较进行查找.md",
+      "status": "passed",
+      "seconds": 0.097,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "[10, 20, 30, 40, 50, 60] 3\nTrue False\n1 3"
+    },
+    {
+      "section": "6.3",
+      "path": "第3卷-排序与查找/第06章-查找/6.3-数字查找.md",
+      "status": "passed",
+      "seconds": 0.097,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "[('car', None), ('cart', 4), ('cat', 3)]\nFalse True 0\n[('cart', 4)]"
+    },
+    {
+      "section": "6.4",
+      "path": "第3卷-排序与查找/第06章-查找/6.4-散列.md",
+      "status": "passed",
+      "seconds": 0.099,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "3 five TEN fifteen\nNone 0\nfull\n5 TEN 0"
+    },
+    {
+      "section": "6.5",
+      "path": "第3卷-排序与查找/第06章-查找/6.5-利用辅助键码的查找.md",
+      "status": "passed",
+      "seconds": 0.094,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "[0, 3]\n[0, 3]\n[0]\n([0, 1], [0])"
+    },
+    {
+      "section": "7.1",
+      "path": "第4卷-组合算法/第07章-组合查找/7.1-0和1.md",
+      "status": "passed",
+      "seconds": 0.1,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "[2, 4, 6]\n[0, 4, 16, 20, 64, 68, 80, 84]\n250\n[0, 0, 0, 1, 0, 1, 1, 1]\n9 8\n21 8"
+    },
+    {
+      "section": "7.1.1",
+      "path": "第4卷-组合算法/第07章-组合查找/7.1.1-布尔基础.md",
+      "status": "passed",
+      "seconds": 0.122,
+      "python_blocks": 3,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "representation checks: 278\nHorn propagation: passed\n2-SAT examples: passed"
+    },
+    {
+      "section": "7.1.2",
+      "path": "第4卷-组合算法/第07章-组合查找/7.1.2-布尔求值.md",
+      "status": "passed",
+      "seconds": 0.092,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "mux: 3 gates are sufficient; 0/1/2 gates are impossible\nexact-two: 16 cases; full adder: 8 cases; decomposition: passed"
+    },
+    {
+      "section": "7.1.3",
+      "path": "第4卷-组合算法/第07章-组合查找/7.1.3-位运算技巧与技术.md",
+      "status": "passed",
+      "seconds": 0.613,
+      "python_blocks": 3,
+      "code_status": "passed",
+      "contextual_checks": {
+        "bit_selection_cases": 1048576,
+        "swar_first_step_inputs": 65536
+      },
+      "output": "all 65536 unsigned 16-bit inputs: passed"
+    },
+    {
+      "section": "7.1.4",
+      "path": "第4卷-组合算法/第07章-组合查找/7.1.4-二叉判定图.md",
+      "status": "passed",
+      "seconds": 0.117,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "equality pairs / interleaved / grouped: 2 6 9\nequality pairs / interleaved / grouped: 4 12 45\nequality pairs / interleaved / grouped: 6 18 189\nBDD construction, Apply, restriction, quantification, counting: passed"
+    },
+    {
+      "section": "7.2",
+      "path": "第4卷-组合算法/第07章-组合查找/7.2-生成所有可能性.md",
+      "status": "passed",
+      "seconds": 0.087,
+      "python_blocks": 3,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "['000', '001', '011', '010', '110', '111', '101', '100']\n['aab', 'aba', 'baa']\n[(0, 1), (0, 2), (0, 3), (1, 2), (1, 3), (2, 3)]\n7\n15\n['((()))', '(()())', '(())()', '()(())', '()()()']\n[1, 1, 0, 0, 2, 10, 4, 40, 92]\n[(0, 1), (2, 3)]\n(1, 0, 1)\nNone\n{} None"
+    },
+    {
+      "section": "7.2.1.1",
+      "path": "第4卷-组合算法/第07章-组合查找/7.2.1.1-生成所有元组.md",
+      "status": "passed",
+      "seconds": 0.092,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "{'tuple_rank_roundtrips': 1555, 'gray_max_n': 10, 'de_bruijn_cases': 15}"
+    },
+    {
+      "section": "7.2.1.2",
+      "path": "第4卷-组合算法/第07章-组合查找/7.2.1.2-生成所有排列.md",
+      "status": "passed",
+      "seconds": 0.099,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "{'distinct_permutations_checked': 5914, 'multiset_cases': 5}"
+    },
+    {
+      "section": "7.2.1.3",
+      "path": "第4卷-组合算法/第07章-组合查找/7.2.1.3-生成所有组合.md",
+      "status": "passed",
+      "seconds": 0.084,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "{'combinations_checked': 2047, 'max_n': 10}"
+    },
+    {
+      "section": "7.2.1.4",
+      "path": "第4卷-组合算法/第07章-组合查找/7.2.1.4-生成所有整数分划.md",
+      "status": "passed",
+      "seconds": 0.096,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "{'partitions_enumerated': 1597, 'counts_checked_through': 40}"
+    },
+    {
+      "section": "7.2.1.5",
+      "path": "第4卷-组合算法/第07章-组合查找/7.2.1.5-生成所有集合分划.md",
+      "status": "passed",
+      "seconds": 0.088,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "{'set_partitions_checked': 1156, 'brute_force_max_n': 5}"
+    },
+    {
+      "section": "7.2.1.6",
+      "path": "第4卷-组合算法/第07章-组合查找/7.2.1.6-生成所有树.md",
+      "status": "passed",
+      "seconds": 0.1,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "{'tree_shapes_checked': 2056, 'max_n': 8}"
+    },
+    {
+      "section": "7.2.1.7",
+      "path": "第4卷-组合算法/第07章-组合查找/7.2.1.7-组合生成的历史与参考.md",
+      "status": "passed",
+      "seconds": 0.093,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "{'binary_patterns': 64, 'rhythm_duration_7': 21, 'bell_5': 52, 'catalan_4': 14, 'scope': 'mathematical checks, not historical evidence'}"
+    },
+    {
+      "section": "7.2.2",
+      "path": "第4卷-组合算法/第07章-组合查找/7.2.2-回溯程序设计.md",
+      "status": "passed",
+      "seconds": 0.107,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "{'queens_counts': [1, 1, 0, 0, 2, 10, 4, 40, 92], 'n8_profile': [1, 8, 42, 140, 344, 568, 550, 312, 92], 'path_estimator_exact_expectation': '9'}"
+    },
+    {
+      "section": "7.2.2.1",
+      "path": "第4卷-组合算法/第07章-组合查找/7.2.2.1-舞蹈链与精确覆盖.md",
+      "status": "passed",
+      "seconds": 0.123,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "{'random_exact_cover_cases': 200, 'state_restoration': 'verified twice per case'}"
+    },
+    {
+      "section": "7.2.2.2",
+      "path": "第4卷-组合算法/第07章-组合查找/7.2.2.2-可满足性SAT.md",
+      "status": "passed",
+      "seconds": 0.145,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "{'exhaustive_cnf_instances': 3304, 'random_cnf_instances': 200, 'encoding_tests': ['triangle coloring', 'AND gate', 'empty cases']}"
+    },
+    {
+      "section": "MPR",
+      "path": "第4卷-组合算法/MPR-数学准备再探.md",
+      "status": "passed",
+      "seconds": 0.104,
+      "python_blocks": 1,
+      "code_status": "passed",
+      "contextual_checks": {},
+      "output": "distribution: [(0, 24), (1, 144), (2, 84), (3, 4)]\nE[Q] = 81/64 E[Q^2] = 129/64\nP(Q > 0) = 29/32\nsecond-moment lower bound = 2187/2752\nmartingale prefixes checked = 85"
+    }
+  ],
+  "extended_checks": [
+    {
+      "script": "verify_taocp_chapter1.py",
+      "status": "passed",
+      "seconds": 0.115
+    },
+    {
+      "script": "verify_taocp_chapter2.py",
+      "status": "passed",
+      "seconds": 0.187
+    },
+    {
+      "script": "verify_taocp_chapter3.py",
+      "status": "passed",
+      "seconds": 0.675
+    },
+    {
+      "script": "verify_taocp_chapter4.py",
+      "status": "passed",
+      "seconds": 1.316
+    },
+    {
+      "script": "verify_taocp_chapter5.py",
+      "status": "passed",
+      "seconds": 0.471
+    },
+    {
+      "script": "verify_taocp_chapter6.py",
+      "status": "passed",
+      "seconds": 2.307
+    },
+    {
+      "script": "verify_taocp_chapter7.py",
+      "status": "passed",
+      "seconds": 0.461
+    },
+    {
+      "script": "verify_taocp_7_1_1.py",
+      "status": "passed",
+      "seconds": 0.14
+    },
+    {
+      "script": "verify_taocp_7_1_remaining.py",
+      "status": "passed",
+      "seconds": 0.949
+    },
+    {
+      "script": "verify_taocp_mpr.py",
+      "status": "passed",
+      "seconds": 0.475
+    }
+  ],
+  "limitations": "Finite checks reproduce examples and detect errors; they do not replace mathematical proofs."
+}

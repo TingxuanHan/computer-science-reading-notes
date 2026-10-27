@@ -1,0 +1,98 @@
+{
+  "articles": [
+    {
+      "filename": "4.1-定位计数系统.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·4.1 定位计数系统：同一个数，为什么有不同的运算法则",
+      "body_characters": 4484,
+      "python_blocks": 1,
+      "sha256": "4bd59de413368d0d1e5c891eb0efc56d65cdf13bc84fa546e9aa5d39240ce29a",
+      "example_output": "[1, 1, 0, 1, 1, 1]\n[1, 0, -1]\n-13\n-128"
+    },
+    {
+      "filename": "4.2-浮点算术.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·4.2 浮点算术：误差从哪里来，又怎样被放大",
+      "body_characters": 4590,
+      "python_blocks": 1,
+      "sha256": "c0948a709deb303cbd9dab22bae81fff2efd309355438f8c94163cf143390e61",
+      "example_output": "0 1\n1/2000 0\n31/25\n63/50"
+    },
+    {
+      "filename": "4.3-多精度算术.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·4.3 多精度算术：把大整数拆开以后，怎样保证每一步正确",
+      "body_characters": 4828,
+      "python_blocks": 1,
+      "sha256": "f4276490aed54abfe31c6b4643954be8ee3d8c7eebe370e4c4db799cd47deca9",
+      "example_output": "4001620161\n1031 16\n173"
+    },
+    {
+      "filename": "4.4-进制转换.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·4.4 进制转换：整数取余，小数为什么要追踪余数",
+      "body_characters": 4807,
+      "python_blocks": 1,
+      "sha256": "f80e2b1ab09a48a4565cb52a3a84c0f1ec7b305630f3086a0fbafafba8da2a01",
+      "example_output": "[4, 3]\n[0, 0, 1] []\n[0] [0, 0, 1, 1]\n[0, 8] [3]"
+    },
+    {
+      "filename": "4.5-有理算术.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·4.5 有理算术：从约分到因子分解，整数怎样保持可控",
+      "body_characters": 5000,
+      "python_blocks": 1,
+      "sha256": "3d8801636f53104d26a9e85ece5d8e15b87a27d415bfdc1f33f921f6164bea1c",
+      "example_output": "(15, 4)\n(67, 44)\n2 -9 47 2\n[2, 2, 2, 3, 3, 5]"
+    },
+    {
+      "filename": "4.6-多项式算术.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·4.6 多项式算术：除法、因子分解与求值怎样连起来",
+      "body_characters": 5275,
+      "python_blocks": 1,
+      "sha256": "16baa4435bb8934b5a9d7e9f070e4c82c1b43b1eb8095381ad1a1c9c91d96d0a",
+      "example_output": "['-1', '1', '1'] ['3']\n8 10\n['-1', '1']\n32768 6"
+    },
+    {
+      "filename": "4.7-幂级数的操作.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷2·4.7 幂级数的操作：只算有限项，怎样处理无限表达式",
+      "body_characters": 5608,
+      "python_blocks": 1,
+      "sha256": "fee68dc647d3d6f4ff3cd2f52bbf3cdc7e609b53ade02228339acb648eb95a55",
+      "example_output": "['1', '1', '2', '3', '5', '8', '13', '21']\n['1', '1', '1/2', '1/6', '1/24', '1/120']\n['0', '1', '1', '2', '5', '14', '42']"
+    }
+  ],
+  "checks": {
+    "representations": {
+      "negative_base_cases": 12006,
+      "balanced_widths": 7,
+      "signed_widths": 12
+    },
+    "rounding": {
+      "grid_oracles": 10766,
+      "precisions": [
+        1,
+        2,
+        3
+      ]
+    },
+    "multi_precision": {
+      "product_and_division_cases": 2100,
+      "crt_full_range": 385,
+      "normalized_trial_quotient_cases": 23536
+    },
+    "base_conversion": {
+      "rational_round_trips_and_periods": 22880,
+      "bases": 11
+    },
+    "rational_arithmetic": {
+      "fraction_oracles": 8000,
+      "bezout_pairs": 10201,
+      "factorizations": 3000
+    },
+    "polynomial_arithmetic": {
+      "division_gcd_value_cases": 600,
+      "power_cases": 299
+    },
+    "formal_series": {
+      "newton_and_exp_oracles": 240,
+      "catalan_prefixes": 24
+    }
+  },
+  "all_passed": true
+}

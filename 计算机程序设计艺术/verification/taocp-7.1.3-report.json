@@ -1,0 +1,13 @@
+{
+  "section": "7.1.3",
+  "date": "2026-10-27",
+  "status": "passed",
+  "checks": {
+    "all_16_bit_words": 65536,
+    "all_8_bit_extract_masks": 65536,
+    "all_byte_add_pairs": 65536,
+    "full_width_matrix_and_word_cases": 2064,
+    "four_vertex_graph_start_pairs": 65536,
+    "zero_byte_counterexample_verified": true
+  }
+}

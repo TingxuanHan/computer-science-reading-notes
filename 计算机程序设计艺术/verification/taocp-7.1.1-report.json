@@ -1,0 +1,35 @@
+{
+  "status": "passed",
+  "date": "2026-10-26",
+  "section": "7.1.1",
+  "note": "C:\\Users\\TxHan\\Documents\\ChatGPT\\CSDN\\computer-science-reading-notes\\计算机程序设计艺术\\第4卷-组合算法\\第07章-组合查找\\7.1.1-布尔基础.md",
+  "note_sha256": "a4528bccc8b9f5ffae94b441dfb5dc33a96c6cd2e2a98df7e5eb4372238a24a5",
+  "article_python_blocks": 3,
+  "article_stdout": [
+    "representation checks: 278",
+    "Horn propagation: passed",
+    "2-SAT examples: passed"
+  ],
+  "all_functions_n_0_to_3": 278,
+  "exhaustive_horn_formulas_n_0_to_2": 266,
+  "exhaustive_2cnf_formulas_n_0_to_2": 2066,
+  "explicit_stack_chain_variables": 2500,
+  "cube_median_triples": 512,
+  "three_variable_class_counts": {
+    "all": 256,
+    "self_dual": 16,
+    "monotone": 20,
+    "monotone_self_dual": 4,
+    "horn_closed": 122,
+    "majority_closed": 166,
+    "symmetric": 16,
+    "canalizing": 120
+  },
+  "source_checked": {
+    "chinese_book_body": "274-302",
+    "pdf_body": "285-313",
+    "chinese_book_exercises": "303-320",
+    "pdf_exercises": "314-331"
+  },
+  "limits": "Finite exhaustive checks and examples; no claim of all exercise solutions, general minimum DNF solver, or median-label algorithm H implementation."
+}

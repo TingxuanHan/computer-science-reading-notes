@@ -1,0 +1,83 @@
+{
+  "articles": [
+    {
+      "filename": "6.1-顺序查找.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷3·6.1 顺序查找：从逐项比较，到把常用记录放在前面",
+      "body_characters": 4977,
+      "python_blocks": 1,
+      "sha256": "4849a7c2645066993b6d70f4bea074a967474dc3be56d3dbfe3697db272c4e6d",
+      "example_output": "(-1, 3) (-1, 4)\n5/3 7/3\n['B', 'A', 'C'] 35/6 14/3\n(2, True) [7, 4, 9]"
+    },
+    {
+      "filename": "6.2-通过键码比较进行查找.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷3·6.2 通过键码比较进行查找：二分、查找树与平衡，各自解决什么问题",
+      "body_characters": 6045,
+      "python_blocks": 1,
+      "sha256": "7d5ff7a7db71c1f0d3c27452c939977b32f2a971cfc83c0cb6feac4925852c4f",
+      "example_output": "[10, 20, 30, 40, 50, 60] 3\nTrue False\n1 3"
+    },
+    {
+      "filename": "6.3-数字查找.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷3·6.3 数字查找：把键码拆成字符，怎样沿前缀找到记录",
+      "body_characters": 5665,
+      "python_blocks": 1,
+      "sha256": "9ff80ad733a5c01566e911c0e647657d274d9ed3a0801c56cc96391e39697a00",
+      "example_output": "[('car', None), ('cart', 4), ('cat', 3)]\nFalse True 0\n[('cart', 4)]"
+    },
+    {
+      "filename": "6.4-散列.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷3·6.4 散列：地址算出来以后，冲突和删除怎么办",
+      "body_characters": 6193,
+      "python_blocks": 1,
+      "sha256": "7d35e171e5b5cacf1469d06d2c2bd90530e09b85ef3f12117d62edb44a76a3f1",
+      "example_output": "3 five TEN fifteen\nNone 0\nfull\n5 TEN 0"
+    },
+    {
+      "filename": "6.5-利用辅助键码的查找.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷3·6.5 利用辅助键码的查找：从一条记录，走向一组条件",
+      "body_characters": 6711,
+      "python_blocks": 1,
+      "sha256": "43dab5fcb590fa464fb23493622d21ad7f93380341cadd396f6bba7390a00aee",
+      "example_output": "[0, 3]\n[0, 3]\n[0]\n([0, 1], [0])"
+    }
+  ],
+  "checks": {
+    "6.1": {
+      "first_match_cases": 5465,
+      "orderings_compared": 175,
+      "exact_stationary_states": 153,
+      "stationary_balance_and_mtf_formula": true,
+      "variable_length_exchange_rule": true
+    },
+    "6.2": {
+      "avl_insertion_orders": 5914,
+      "avl_small_insertions_including_duplicates": 80638,
+      "long_avl_orders": 3,
+      "long_order_length": 2000,
+      "lower_bound_cases": 7007,
+      "optimal_bst_weights_vs_all_shapes": 84,
+      "random_bst_orders": 873
+    },
+    "6.3": {
+      "mixed_operations": 5000,
+      "prefix_scan_comparisons": 40000,
+      "empty_key_none_unicode_long_prefix_and_pruning": true
+    },
+    "6.4": {
+      "exhaustive_five_operation_collision_traces": 7776,
+      "random_operations": 20000,
+      "double_hash_period_cases": 465,
+      "full_table_all_tombstones_wraparound_update_rebuild": true,
+      "linear_probe_table_arithmetic": true
+    },
+    "6.5": {
+      "boolean_queries_vs_scan": 10092,
+      "signature_code_query_combinations": 4096,
+      "empty_universe_missing_fields_sparse_ids_none_deleted_record": true,
+      "no_false_negatives_for_positive_signatures": true,
+      "bloom_approximation_10_bits_per_key_k7": 0.008193722065862417
+    }
+  },
+  "random_seed": 61025,
+  "all_passed": true
+}

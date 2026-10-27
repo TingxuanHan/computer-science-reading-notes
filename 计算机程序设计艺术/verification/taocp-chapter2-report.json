@@ -1,0 +1,101 @@
+{
+  "source": "User supplied TAOCP Volume 1 third edition Chinese PDF (2002)",
+  "articles": [
+    {
+      "filename": "2.1-引论.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷1·2.1 引论：数据之间的关系，怎样进入内存",
+      "body_characters": 4000,
+      "python_blocks": 1,
+      "sha256": "3d55648a549eb134ede637087cd4797112d5de08a33a0a9ac857002b7c3c65f4",
+      "example_output": "['写摘要', '校对公式', '检查代码']\n['确定范围', '写摘要', '校对公式', '检查代码']"
+    },
+    {
+      "filename": "2.2-线性表.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷1·2.2 线性表：一次插入的代价，取决于怎样存储",
+      "body_characters": 6267,
+      "python_blocks": 2,
+      "sha256": "c2960c5856dffec4d730553e3b9bc7ad3e597ec118297b354921fdf702784339",
+      "example_output": "A\n['B', 'C', 'D']\n['B', 'C', 'D']\n[(2, 7), (1, 2)]"
+    },
+    {
+      "filename": "2.3-树.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷1·2.3 树：从遍历顺序到存储回收",
+      "body_characters": 6813,
+      "python_blocks": 3,
+      "sha256": "026571ec55589c4edb36853f3e62d840ff99a1d66befcb99c67d0bde7cd8bd4e",
+      "example_output": "A B D C E\nB D A E C\nD B E C A\n(5, 6, 16)\n[3, 4, 5]"
+    },
+    {
+      "filename": "2.4-多重链接结构.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷1·2.4 多重链接结构：一个名字，可能需要多条查找路径",
+      "body_characters": 5483,
+      "python_blocks": 1,
+      "sha256": "605fcbadd838ca01b22ca97746f49e93ef90d4575037602e32dc49a68ff3beee",
+      "example_output": "True\nTrue\n2\n[]"
+    },
+    {
+      "filename": "2.5-动态存储分配.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷1·2.5 动态存储分配：空闲总量够，为什么还会失败",
+      "body_characters": 6418,
+      "python_blocks": 1,
+      "sha256": "7c05a6026ee6332c8091939cb1442d713be6745e53af3b1c9c68f668e3f15e55",
+      "example_output": "[(0, 8), (16, 16)]\ntotal free = 24, largest block = 16\n16 [(0, 8), (28, 4)]\n[(0, 32)]"
+    },
+    {
+      "filename": "2.6-历史和文献.md",
+      "title": "【计算机程序设计艺术 TAOCP】卷1·2.6 历史和文献：数据结构是怎样从问题里长出来的",
+      "body_characters": 4844,
+      "python_blocks": 0,
+      "sha256": "2a4e5574d88a3dedeb9dafcec8c10788a195f8dca911ec10eae0793a5f1e1634",
+      "example_output": ""
+    }
+  ],
+  "checks": {
+    "linked_sequences": {
+      "insertions": 100,
+      "invalid_cases": 4,
+      "empty": true
+    },
+    "ring_queue": {
+      "operation_steps": 8192,
+      "invalid_capacities": 4
+    },
+    "sparse_polynomials": {
+      "coefficient_pairs": 6561,
+      "evaluation_points_each": 3
+    },
+    "binary_trees": {
+      "all_shapes_through_8_nodes": 2056,
+      "checked": [
+        "three_orders",
+        "Catalan_count",
+        "external_nodes",
+        "E_equals_I_plus_2n"
+      ]
+    },
+    "reachability": {
+      "exhaustive_graph_root_cases": 4096,
+      "invalid_reachable_links": 2
+    },
+    "qualified_names": {
+      "nodes": 100,
+      "queries": 780,
+      "child_chains": 100,
+      "invalid_parents": 4
+    },
+    "interval_allocator": {
+      "operation_steps": 8000,
+      "invalid_cases": 11,
+      "full_coalescence_cases": 8
+    },
+    "buddy_addresses": {
+      "aligned_pairs_checked": 4072
+    },
+    "history": {
+      "method": "visual source check of supplied book pages 429-435",
+      "primary_papers_individually_read": false,
+      "no_runtime_code": true
+    }
+  },
+  "all_passed": true
+}

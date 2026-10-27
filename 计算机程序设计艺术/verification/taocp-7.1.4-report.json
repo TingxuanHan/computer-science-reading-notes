@@ -1,0 +1,55 @@
+{
+  "section": "7.1.4",
+  "date": "2026-10-27",
+  "status": "passed",
+  "checks": {
+    "all_three_variable_functions": 256,
+    "restriction_cases": 6912,
+    "quantification_cases": 1536,
+    "exact_probability_cases": 256,
+    "all_two_variable_binary_compositions": 4096,
+    "equality_nonterminal_sizes": [
+      [
+        1,
+        3,
+        3
+      ],
+      [
+        2,
+        6,
+        9
+      ],
+      [
+        3,
+        9,
+        21
+      ],
+      [
+        4,
+        12,
+        45
+      ],
+      [
+        5,
+        15,
+        93
+      ],
+      [
+        6,
+        18,
+        189
+      ],
+      [
+        7,
+        21,
+        381
+      ],
+      [
+        8,
+        24,
+        765
+      ]
+    ],
+    "all_three_element_set_families": 256
+  }
+}
