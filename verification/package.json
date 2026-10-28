@@ -1,0 +1,8 @@
+{
+  "name": "reading-notes-math-verification",
+  "private": true,
+  "description": "Formula syntax checks using the MathJax version observed on GitHub on 2026-10-28",
+  "devDependencies": {
+    "mathjax-full": "3.2.0"
+  }
+}

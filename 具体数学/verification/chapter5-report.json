@@ -6,56 +6,56 @@
       "block": 1,
       "result": "passed",
       "output": "基本恒等式核验通过",
-      "characters": 4363
+      "characters": 4375
     },
     {
       "file": "5.1.2-基本练习.md",
       "block": 1,
       "result": "passed",
       "output": "五组求和例子核验通过",
-      "characters": 4372
+      "characters": 4384
     },
     {
       "file": "5.1.3-处理的技巧.md",
       "block": 1,
       "result": "passed",
       "output": "半整数、差分、反演和错排核验通过",
-      "characters": 5146
+      "characters": 5156
     },
     {
       "file": "5.1.4-生成函数.md",
       "block": 1,
       "result": "passed",
       "output": "[1, 1, 2, 5, 14, 42, 132]",
-      "characters": 4705
+      "characters": 4731
     },
     {
       "file": "5.1.5-超几何函数.md",
       "block": 1,
       "result": "passed",
       "output": "终止超几何和的项比、直接求和与封闭形式一致",
-      "characters": 4631
+      "characters": 4643
     },
     {
       "file": "5.1.6-超几何变换.md",
       "block": 1,
       "result": "passed",
       "output": "Pfaff 变换、导数公式和微分方程的系数关系核验通过",
-      "characters": 4492
+      "characters": 4523
     },
     {
       "file": "5.1.7-部分超几何和式.md",
       "block": 1,
       "result": "passed",
       "output": "差分证书、零端点与全部截断位置核验通过",
-      "characters": 4378
+      "characters": 4394
     },
     {
       "file": "5.1.8-机械求和法.md",
       "block": 1,
       "result": "passed",
       "output": "[1, 5, 73, 1445, 33001]",
-      "characters": 5169
+      "characters": 5173
     }
   ],
   "independent_checks": [

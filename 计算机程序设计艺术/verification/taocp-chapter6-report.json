@@ -3,17 +3,17 @@
     {
       "filename": "6.1-顺序查找.md",
       "title": "【计算机程序设计艺术 TAOCP】卷3·6.1 顺序查找：从逐项比较，到把常用记录放在前面",
-      "body_characters": 4977,
+      "body_characters": 4983,
       "python_blocks": 1,
-      "sha256": "4849a7c2645066993b6d70f4bea074a967474dc3be56d3dbfe3697db272c4e6d",
+      "sha256": "c40e8eb690c6c8596900919e6dafa7e23a7b628c9cd4feae4941353d91f86d1d",
       "example_output": "(-1, 3) (-1, 4)\n5/3 7/3\n['B', 'A', 'C'] 35/6 14/3\n(2, True) [7, 4, 9]"
     },
     {
       "filename": "6.2-通过键码比较进行查找.md",
       "title": "【计算机程序设计艺术 TAOCP】卷3·6.2 通过键码比较进行查找：二分、查找树与平衡，各自解决什么问题",
-      "body_characters": 6045,
+      "body_characters": 6103,
       "python_blocks": 1,
-      "sha256": "7d5ff7a7db71c1f0d3c27452c939977b32f2a971cfc83c0cb6feac4925852c4f",
+      "sha256": "439402e8b06561628c14515ced4b69413c7d1181fd29123b29efdbc9a1d5a417",
       "example_output": "[10, 20, 30, 40, 50, 60] 3\nTrue False\n1 3"
     },
     {
@@ -27,17 +27,17 @@
     {
       "filename": "6.4-散列.md",
       "title": "【计算机程序设计艺术 TAOCP】卷3·6.4 散列：地址算出来以后，冲突和删除怎么办",
-      "body_characters": 6193,
+      "body_characters": 6211,
       "python_blocks": 1,
-      "sha256": "7d35e171e5b5cacf1469d06d2c2bd90530e09b85ef3f12117d62edb44a76a3f1",
+      "sha256": "d30340a288f7776a1b6516184fba551cf158859538a10b06ad962b591d247955",
       "example_output": "3 five TEN fifteen\nNone 0\nfull\n5 TEN 0"
     },
     {
       "filename": "6.5-利用辅助键码的查找.md",
       "title": "【计算机程序设计艺术 TAOCP】卷3·6.5 利用辅助键码的查找：从一条记录，走向一组条件",
-      "body_characters": 6711,
+      "body_characters": 6737,
       "python_blocks": 1,
-      "sha256": "43dab5fcb590fa464fb23493622d21ad7f93380341cadd396f6bba7390a00aee",
+      "sha256": "65cf8404463a4ef3a96442aa855b0614cb6153ffe4f3995e1a23966cd1ac048d",
       "example_output": "[0, 3]\n[0, 3]\n[0]\n([0, 1], [0])"
     }
   ],

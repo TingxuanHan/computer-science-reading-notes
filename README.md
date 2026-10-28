@@ -14,3 +14,5 @@
 《具体数学》的公式与示例可直接在各节 Markdown 中阅读；[验证说明](具体数学/verification/README.md)提供执行方法与检查范围。
 
 《计算机程序设计艺术》的[验证说明](计算机程序设计艺术/verification/README.md)提供正文代码、独立对照检查与覆盖范围。
+
+两本笔记的公式另有[GitHub 渲染检查](verification/README.md)，检查公式是否漏渲染、转义是否被 Markdown 改写，以及平台禁用的命令。

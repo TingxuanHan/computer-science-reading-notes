@@ -3,57 +3,57 @@
     {
       "filename": "4.1-定位计数系统.md",
       "title": "【计算机程序设计艺术 TAOCP】卷2·4.1 定位计数系统：同一个数，为什么有不同的运算法则",
-      "body_characters": 4484,
+      "body_characters": 4517,
       "python_blocks": 1,
-      "sha256": "4bd59de413368d0d1e5c891eb0efc56d65cdf13bc84fa546e9aa5d39240ce29a",
+      "sha256": "673e0c55997f40863a5c1fab1226935631172fecbbfe2176fa4ad7bdb894f8ed",
       "example_output": "[1, 1, 0, 1, 1, 1]\n[1, 0, -1]\n-13\n-128"
     },
     {
       "filename": "4.2-浮点算术.md",
       "title": "【计算机程序设计艺术 TAOCP】卷2·4.2 浮点算术：误差从哪里来，又怎样被放大",
-      "body_characters": 4590,
+      "body_characters": 4724,
       "python_blocks": 1,
-      "sha256": "c0948a709deb303cbd9dab22bae81fff2efd309355438f8c94163cf143390e61",
+      "sha256": "d1cdf4030ecbf663ffb599bbca0970f297a064e9f2ca4f3643ca74e1ba251b11",
       "example_output": "0 1\n1/2000 0\n31/25\n63/50"
     },
     {
       "filename": "4.3-多精度算术.md",
       "title": "【计算机程序设计艺术 TAOCP】卷2·4.3 多精度算术：把大整数拆开以后，怎样保证每一步正确",
-      "body_characters": 4828,
+      "body_characters": 4848,
       "python_blocks": 1,
-      "sha256": "f4276490aed54abfe31c6b4643954be8ee3d8c7eebe370e4c4db799cd47deca9",
+      "sha256": "09f9a19827825b26ede2ac473a597bd3aeb2cf898a59a6f1d9042a33474aa0cf",
       "example_output": "4001620161\n1031 16\n173"
     },
     {
       "filename": "4.4-进制转换.md",
       "title": "【计算机程序设计艺术 TAOCP】卷2·4.4 进制转换：整数取余，小数为什么要追踪余数",
-      "body_characters": 4807,
+      "body_characters": 4811,
       "python_blocks": 1,
-      "sha256": "f80e2b1ab09a48a4565cb52a3a84c0f1ec7b305630f3086a0fbafafba8da2a01",
+      "sha256": "9911c1776dd2d5e2bee4dc338a8c68dc3132ecbe90f061d2b21eb79df7ed903e",
       "example_output": "[4, 3]\n[0, 0, 1] []\n[0] [0, 0, 1, 1]\n[0, 8] [3]"
     },
     {
       "filename": "4.5-有理算术.md",
       "title": "【计算机程序设计艺术 TAOCP】卷2·4.5 有理算术：从约分到因子分解，整数怎样保持可控",
-      "body_characters": 5000,
+      "body_characters": 5006,
       "python_blocks": 1,
-      "sha256": "3d8801636f53104d26a9e85ece5d8e15b87a27d415bfdc1f33f921f6164bea1c",
+      "sha256": "c068182962333553a69ece38340f81d306c14b09af7ce82da322ca8eb06bd798",
       "example_output": "(15, 4)\n(67, 44)\n2 -9 47 2\n[2, 2, 2, 3, 3, 5]"
     },
     {
       "filename": "4.6-多项式算术.md",
       "title": "【计算机程序设计艺术 TAOCP】卷2·4.6 多项式算术：除法、因子分解与求值怎样连起来",
-      "body_characters": 5275,
+      "body_characters": 5293,
       "python_blocks": 1,
-      "sha256": "16baa4435bb8934b5a9d7e9f070e4c82c1b43b1eb8095381ad1a1c9c91d96d0a",
+      "sha256": "0b3863a8abb79bdcfb5a6aabc50a2cbd95abc126936cb57265a53a1c581bbaa1",
       "example_output": "['-1', '1', '1'] ['3']\n8 10\n['-1', '1']\n32768 6"
     },
     {
       "filename": "4.7-幂级数的操作.md",
       "title": "【计算机程序设计艺术 TAOCP】卷2·4.7 幂级数的操作：只算有限项，怎样处理无限表达式",
-      "body_characters": 5608,
+      "body_characters": 5618,
       "python_blocks": 1,
-      "sha256": "fee68dc647d3d6f4ff3cd2f52bbf3cdc7e609b53ade02228339acb648eb95a55",
+      "sha256": "a8ad6e2fb4d7437efb98e8237977bdabacda1237ce6506eaca4c5f6513d43dd1",
       "example_output": "['1', '1', '2', '3', '5', '8', '13', '21']\n['1', '1', '1/2', '1/6', '1/24', '1/120']\n['0', '1', '1', '2', '5', '14', '42']"
     }
   ],

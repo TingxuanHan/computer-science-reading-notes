@@ -12,17 +12,17 @@
     {
       "filename": "2.2-线性表.md",
       "title": "【计算机程序设计艺术 TAOCP】卷1·2.2 线性表：一次插入的代价，取决于怎样存储",
-      "body_characters": 6267,
+      "body_characters": 6321,
       "python_blocks": 2,
-      "sha256": "c2960c5856dffec4d730553e3b9bc7ad3e597ec118297b354921fdf702784339",
+      "sha256": "c09c58b4e4d1a313e8924a72f4184fa622435e0264d71bc3c9a072f6c62d503f",
       "example_output": "A\n['B', 'C', 'D']\n['B', 'C', 'D']\n[(2, 7), (1, 2)]"
     },
     {
       "filename": "2.3-树.md",
       "title": "【计算机程序设计艺术 TAOCP】卷1·2.3 树：从遍历顺序到存储回收",
-      "body_characters": 6813,
+      "body_characters": 6823,
       "python_blocks": 3,
-      "sha256": "026571ec55589c4edb36853f3e62d840ff99a1d66befcb99c67d0bde7cd8bd4e",
+      "sha256": "da8d77e263fc7626d795bcc0fd6709d24adcc429217f7e7d511a542f6f5f3925",
       "example_output": "A B D C E\nB D A E C\nD B E C A\n(5, 6, 16)\n[3, 4, 5]"
     },
     {
@@ -36,9 +36,9 @@
     {
       "filename": "2.5-动态存储分配.md",
       "title": "【计算机程序设计艺术 TAOCP】卷1·2.5 动态存储分配：空闲总量够，为什么还会失败",
-      "body_characters": 6418,
+      "body_characters": 6483,
       "python_blocks": 1,
-      "sha256": "7c05a6026ee6332c8091939cb1442d713be6745e53af3b1c9c68f668e3f15e55",
+      "sha256": "aa222badac8e1c30e4090625cb8fc675271c54b9d40f77207c385cebf454cf74",
       "example_output": "[(0, 8), (16, 16)]\ntotal free = 24, largest block = 16\n16 [(0, 8), (28, 4)]\n[(0, 32)]"
     },
     {

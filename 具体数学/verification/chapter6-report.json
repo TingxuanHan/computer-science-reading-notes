@@ -1,48 +1,48 @@
 {
   "chapter": 6,
-  "date": "2026-10-23",
+  "date": "2026-10-28",
   "examples": [
     {
       "file": "6.1.1-斯特林数.md",
       "result": "passed",
       "output": "两类斯特林数的独立枚举检查通过",
-      "sha256": "5ace81e94036131c8749f242975e22c29cadfd8b9143cabb7fa2d659fc3e2236"
+      "sha256": "667deabeca29ea6e36854f5d7e6393f4e7218ba742cf5aeaa412630778684676"
     },
     {
       "file": "6.1.2-欧拉数.md",
       "result": "passed",
       "output": "普通欧拉数、Worpitzky 恒等式与二阶欧拉数检查通过",
-      "sha256": "e92f8a9697d663237123baded0f53a2dcabff9e5eb334198c08ba071b7fb91d7"
+      "sha256": "64719224265a8589595286431448dd753d9253de2fdc3920fc8b7420b0999288"
     },
     {
       "file": "6.1.3-调和数.md",
       "result": "passed",
       "output": "调和数、斯特林关系和刷新纪录次数检查通过",
-      "sha256": "843a46cec52922e29ed5686f09c30fa12f7e46201de8cee82bc9d708429ddbbb"
+      "sha256": "7c6fb6e7d40126f85baafdbec8c14b8e9aa883549c107203cf6e9985fc7acac1"
     },
     {
       "file": "6.1.4-调和求和法.md",
       "result": "passed",
       "output": "换序、分部求和、对称和与参数恒等式检查通过",
-      "sha256": "e8ab64b381d0e7ebf28fbf2d92a706741eb37986c4a315ecffa5af2dbbf0a967"
+      "sha256": "c8310e16533cd5368c5f35f5e72d5d8ce1e06242f003ee589e2b6e1545401692"
     },
     {
       "file": "6.1.5-伯努利数.md",
       "result": "passed",
       "output": "伯努利递推、斯特林表示与幂和公式检查通过",
-      "sha256": "c55b07da498dabc671b96eafd538a0334b6d36cb271d332385fdfb5d76ee7008"
+      "sha256": "4e4facf30b40a26fa829ce5b82e05e0dc1ec45a3d41d5cc1df735ae3041900ec"
     },
     {
       "file": "6.1.6-斐波那契数.md",
       "result": "passed",
       "output": "354224848179261915075",
-      "sha256": "fabf5abaa32220b6db2ad3412310ddf4cd263d5d8870cc506b82249d9f0fe5e2"
+      "sha256": "c9eb8cd4675b79095f1d2e27bd70be97ec285b9ee96839cc44198be1ba99deab"
     },
     {
       "file": "6.1.7-连项式.md",
       "result": "passed",
       "output": "连项式、行列式与连分数检查通过",
-      "sha256": "3e13363c404eb2c290e00f8f57ca6411d26c61b4c5fed0c2f049de8954a1d906"
+      "sha256": "5c4a924ee85b268749b3231ddcb184c58eccebae0131fd115fb07e4500c8e9ae"
     }
   ],
   "independent_checks": [

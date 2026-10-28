@@ -3,33 +3,33 @@
     {
       "filename": "5.1-排列的组合性质.md",
       "title": "【计算机程序设计艺术 TAOCP】卷3·5.1 排列的组合性质：排序之前，先量一量输入有多乱",
-      "body_characters": 5435,
+      "body_characters": 5463,
       "python_blocks": 1,
-      "sha256": "3e85e954ffd7ed71db6adf411eeeafe776bb7ff558cc4bab08e2be0075dcb22a",
+      "sha256": "ca5eb2d07b55c966e22464934c5fa9c4e0b660863f2c484eb26e24d1e8fc4012",
       "example_output": "[1, 2, 0, 0] 3\n[3, 1, 4, 2]\n([[1, 2], [3, 4]], [[1, 3], [2, 4]])\n[1, 11, 11, 1]"
     },
     {
       "filename": "5.2-内部排序.md",
       "title": "【计算机程序设计艺术 TAOCP】卷3·5.2 内部排序：比较、移动和稳定性，分别要付出多少代价",
-      "body_characters": 5412,
+      "body_characters": 5418,
       "python_blocks": 1,
-      "sha256": "01e7ba23f949aa4b9d6d74b2d3c7afbaa4d25a545f766a4733349ac1db845ba2",
+      "sha256": "eeb2f350c993f89f5a8c676b822529120f32269266833c0ee60fcad5e6b751a0",
       "example_output": "[(4, 'B'), (4, 'E'), (13, 'D'), (21, 'A'), (21, 'C')] 9 6\nTrue True"
     },
     {
       "filename": "5.3-最优排序.md",
       "title": "【计算机程序设计艺术 TAOCP】卷3·5.3 最优排序：知道下界以后，为什么还不能宣布最优",
-      "body_characters": 5254,
+      "body_characters": 5258,
       "python_blocks": 1,
-      "sha256": "ca6f93c3dea906772d7d55f0f7703d9022bacb0d05d018e2b33b6a3eb6fd956e",
+      "sha256": "44a879b31dccf30d036853d80e4dd1130dc032718a481695ea45fea7eab5a7eb",
       "example_output": "5 5 16 24\n(0, 1, 0, 1)\n(1, 9, 7)"
     },
     {
       "filename": "5.4-外部排序.md",
       "title": "【计算机程序设计艺术 TAOCP】卷3·5.4 外部排序：数据装不进内存时，怎样少读写几遍",
-      "body_characters": 5293,
+      "body_characters": 5295,
       "python_blocks": 1,
-      "sha256": "174f099e731291714a76c159e470b50b9c3ba348701bf328386c65cb3b673bc3",
+      "sha256": "82d06486d0805c3406e57eb0f73124d05dca309e522fb58a93fc4758208d8268",
       "example_output": "[[3, 7, 8], [1, 2, 4, 5, 6, 9], [0]]\n3 [3, 2, 1]\n[0, 1, 2, 3, 4, 5, 6, 7, 8, 9]\n3 2"
     },
     {

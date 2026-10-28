@@ -1,0 +1,960 @@
+{
+  "checked_at": "2026-10-28T16:52:14+08:00",
+  "timezone": "Asia/Shanghai",
+  "github_renderer_asset": "https://github.githubassets.com/assets/chunk-lazy-element-math-renderer-d9906def89b0b710.js",
+  "github_mathjax_asset": "https://github.githubassets.com/assets/chunk-52e-0bb288a2e09ef5ab.js",
+  "mathjax_version": "3.2.0",
+  "github_markdown_checked": true,
+  "markdown_files": 135,
+  "formulas": 6770,
+  "issues": 0,
+  "all_passed": true,
+  "files": [
+    {
+      "path": "具体数学/00-导言.md",
+      "sha256": "8a75c86df03a493a144b3f4480c7976d4802c0c75df7fdb133ceff48e2bb75d4",
+      "formula_count": 10,
+      "issues": [],
+      "github_formula_count": 10
+    },
+    {
+      "path": "具体数学/10-结语.md",
+      "sha256": "b41f5d82fcdc929bbbf2190d7d4940150e7a65a3a3c03fa6ae2cfbe74ac53b7c",
+      "formula_count": 20,
+      "issues": [],
+      "github_formula_count": 20
+    },
+    {
+      "path": "具体数学/README.md",
+      "sha256": "67474762c33bb378ea26ec5214802286c7ff96342ee054e244e3d7d06a0e0127",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    },
+    {
+      "path": "具体数学/verification/README.md",
+      "sha256": "da3ea6adf6d58670a029936a47a0ed1db18d729e41d76e2063c186d85bea3216",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    },
+    {
+      "path": "具体数学/第01章-递归问题/1.1.1-汉诺塔问题.md",
+      "sha256": "3f9509c4cea1e6a0b5770ad0eee20dea1d230d6d71cf7d8a28123ed44ed58254",
+      "formula_count": 78,
+      "issues": [],
+      "github_formula_count": 78
+    },
+    {
+      "path": "具体数学/第01章-递归问题/1.1.2-平面上的直线.md",
+      "sha256": "e3aa4500a98c0600a7807e75fb9681edd72de79bd784f4ffcc0d159ba412ce16",
+      "formula_count": 72,
+      "issues": [],
+      "github_formula_count": 72
+    },
+    {
+      "path": "具体数学/第01章-递归问题/1.1.3-约瑟夫问题.md",
+      "sha256": "b712624391cc71e245a38d0815b4d268d5155a314773499c65e38070efdd95b8",
+      "formula_count": 179,
+      "issues": [],
+      "github_formula_count": 179
+    },
+    {
+      "path": "具体数学/第01章-递归问题/README.md",
+      "sha256": "01f1686c7b3aa3eec70187f2f3f06e292fe13dd479af6476a7c1467e4ce4f5a1",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    },
+    {
+      "path": "具体数学/第02章-和式/2.1.1-记号.md",
+      "sha256": "4ad3dacd6f988c5cc4e82c3313a1276554c39abbd8daf5826f3a68f990203c06",
+      "formula_count": 62,
+      "issues": [],
+      "github_formula_count": 62
+    },
+    {
+      "path": "具体数学/第02章-和式/2.1.2-和式和递归式.md",
+      "sha256": "6c28e771e92c2f887aee917f54f594db6dda7cb5f6307fa3d7e3216b960cb657",
+      "formula_count": 85,
+      "issues": [],
+      "github_formula_count": 85
+    },
+    {
+      "path": "具体数学/第02章-和式/2.1.3-和式的处理.md",
+      "sha256": "e8f9fc08d6137706a5c78e91ed3a52a1678ce35b2e0f9bd301a06e6b3bf355f8",
+      "formula_count": 57,
+      "issues": [],
+      "github_formula_count": 57
+    },
+    {
+      "path": "具体数学/第02章-和式/2.1.4-多重和式.md",
+      "sha256": "ff3b28678c5170d55c5591582ab915399f8d53c0f9143036fd4794772f6044a8",
+      "formula_count": 52,
+      "issues": [],
+      "github_formula_count": 52
+    },
+    {
+      "path": "具体数学/第02章-和式/2.1.5-一般性的方法.md",
+      "sha256": "c25e73fc28219747562599c89b532e31fdb3a0c0c18ed2170f5f56569a1ea334",
+      "formula_count": 60,
+      "issues": [],
+      "github_formula_count": 60
+    },
+    {
+      "path": "具体数学/第02章-和式/2.1.6-有限微积分和无限微积分.md",
+      "sha256": "36d0feeb9dd6e776d395224a7e3102ff14fbe95d61d48909647826f6b2573d96",
+      "formula_count": 84,
+      "issues": [],
+      "github_formula_count": 84
+    },
+    {
+      "path": "具体数学/第02章-和式/2.1.7-无限和式.md",
+      "sha256": "317b213010a4441462b2ea84138dc938825724dbcd005c208940eb76c088b3a2",
+      "formula_count": 65,
+      "issues": [],
+      "github_formula_count": 65
+    },
+    {
+      "path": "具体数学/第02章-和式/README.md",
+      "sha256": "d30be0200814d5f0507aa6193c91c7d6bfd9088398dacbb5551e12e9da2e44a1",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    },
+    {
+      "path": "具体数学/第03章-整值函数/3.1.1-底和顶.md",
+      "sha256": "8e7546ba6b3a1156dacbbc3ac640e0021516f31ab501ffc03825c7c729d72fad",
+      "formula_count": 66,
+      "issues": [],
+      "github_formula_count": 66
+    },
+    {
+      "path": "具体数学/第03章-整值函数/3.1.2-底和顶的应用.md",
+      "sha256": "d05f43615ee2a8cdd07307077dcd89f491f64ef6d8ed5482c1c5b0423485a245",
+      "formula_count": 85,
+      "issues": [],
+      "github_formula_count": 85
+    },
+    {
+      "path": "具体数学/第03章-整值函数/3.1.3-底和顶的递归式.md",
+      "sha256": "e7a4dd90c2506c5f5c931dceb6c9482eb7687350b85a8029b43208dd0de69218",
+      "formula_count": 85,
+      "issues": [],
+      "github_formula_count": 85
+    },
+    {
+      "path": "具体数学/第03章-整值函数/3.1.4-mod二元运算.md",
+      "sha256": "9fc6bd422c5755847d6147f78085d3ce9228d38299b3babff56c6aabde2512d6",
+      "formula_count": 83,
+      "issues": [],
+      "github_formula_count": 83
+    },
+    {
+      "path": "具体数学/第03章-整值函数/3.1.5-底和顶的和式.md",
+      "sha256": "9b05826b0f65ac13248c01eed61a40ecabb333f97a6b9834d122e5960cd10931",
+      "formula_count": 87,
+      "issues": [],
+      "github_formula_count": 87
+    },
+    {
+      "path": "具体数学/第03章-整值函数/README.md",
+      "sha256": "e5679db14c5675b98490a09123582c7bec16dd40d0f703d7602e16fb2f3fde6a",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    },
+    {
+      "path": "具体数学/第04章-数论/4.1.1-整除性.md",
+      "sha256": "5c95cba27744fc2cc341803dfd37de6782c912d2d5af7922a7992e1240ba07fa",
+      "formula_count": 60,
+      "issues": [],
+      "github_formula_count": 60
+    },
+    {
+      "path": "具体数学/第04章-数论/4.1.2-素数.md",
+      "sha256": "a76268a6d09ad2b0f35ea0441d4b2be7cf306774db032dd6e7b20de5ac934bec",
+      "formula_count": 64,
+      "issues": [],
+      "github_formula_count": 64
+    },
+    {
+      "path": "具体数学/第04章-数论/4.1.3-素数的例子.md",
+      "sha256": "b6bfb4b663cdd66fc4afb0b17fbca3c519585aaf7a97fe5a8f533705d5636301",
+      "formula_count": 58,
+      "issues": [],
+      "github_formula_count": 58
+    },
+    {
+      "path": "具体数学/第04章-数论/4.1.4-阶乘的因子.md",
+      "sha256": "d643f571d8845f1154d2c03962c228e8b31a3f9138493345bb9db1f3039dc361",
+      "formula_count": 83,
+      "issues": [],
+      "github_formula_count": 83
+    },
+    {
+      "path": "具体数学/第04章-数论/4.1.5-互素.md",
+      "sha256": "57e8415fe4465b897e8478977f6f6fe08afced4a7cceaa4db7d196772620cfbf",
+      "formula_count": 84,
+      "issues": [],
+      "github_formula_count": 84
+    },
+    {
+      "path": "具体数学/第04章-数论/4.1.6-mod：同余关系.md",
+      "sha256": "d534fef12c1d2134792b4793536ed30bb1b0320f2440fa0e840111e9f24376bd",
+      "formula_count": 85,
+      "issues": [],
+      "github_formula_count": 85
+    },
+    {
+      "path": "具体数学/第04章-数论/4.1.7-独立剩余.md",
+      "sha256": "427aeca681cac48a2fb2b46eb6b894275a1f45439a5c2922f868b13d22c19225",
+      "formula_count": 85,
+      "issues": [],
+      "github_formula_count": 85
+    },
+    {
+      "path": "具体数学/第04章-数论/4.1.8-进一步的应用.md",
+      "sha256": "bd3a8537e6da150c3d232416fd51140aa149ed6f5d56545db40f1993eec1a57d",
+      "formula_count": 82,
+      "issues": [],
+      "github_formula_count": 82
+    },
+    {
+      "path": "具体数学/第04章-数论/4.1.9-φ函数和μ函数.md",
+      "sha256": "061bc5bc2f44885d94b10d616722dba931d86a847bb58ad0a59d01ab880bda28",
+      "formula_count": 114,
+      "issues": [],
+      "github_formula_count": 114
+    },
+    {
+      "path": "具体数学/第04章-数论/README.md",
+      "sha256": "3bcf2e0bbe8516baf8ca64a54d5f745dfb73744098132b53141be4b3c36d6137",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    },
+    {
+      "path": "具体数学/第05章-二项式系数/5.1.1-基本恒等式.md",
+      "sha256": "97e8d1a9bb45bffee47cb0cb0c519fa59a159ebfb8286f8318e672ba77dfed00",
+      "formula_count": 84,
+      "issues": [],
+      "github_formula_count": 84
+    },
+    {
+      "path": "具体数学/第05章-二项式系数/5.1.2-基本练习.md",
+      "sha256": "fd02b32007740de42c496ab19b486c1eb92b12cc0ee351eb5c52c4f9d3137e09",
+      "formula_count": 87,
+      "issues": [],
+      "github_formula_count": 87
+    },
+    {
+      "path": "具体数学/第05章-二项式系数/5.1.3-处理的技巧.md",
+      "sha256": "673b4c54aae6bb21ff2587113929a6508d1912a8eb0c9ffbdc78b7061e240c69",
+      "formula_count": 85,
+      "issues": [],
+      "github_formula_count": 85
+    },
+    {
+      "path": "具体数学/第05章-二项式系数/5.1.4-生成函数.md",
+      "sha256": "c5f2f4e8020b899dd6648241effffebf2a9d4845540785629c306cedbbfbed19",
+      "formula_count": 89,
+      "issues": [],
+      "github_formula_count": 89
+    },
+    {
+      "path": "具体数学/第05章-二项式系数/5.1.5-超几何函数.md",
+      "sha256": "02925d6cbc14c0fa99f9fb1d69c38f18b179c6304995d451b5fb477988dbb133",
+      "formula_count": 62,
+      "issues": [],
+      "github_formula_count": 62
+    },
+    {
+      "path": "具体数学/第05章-二项式系数/5.1.6-超几何变换.md",
+      "sha256": "46073456a45c765ed8a95dc7263d0fdb81c4da68a206a60f2119e88b29601da8",
+      "formula_count": 60,
+      "issues": [],
+      "github_formula_count": 60
+    },
+    {
+      "path": "具体数学/第05章-二项式系数/5.1.7-部分超几何和式.md",
+      "sha256": "21918937d910bb9e1f5c8abbe09a70db1539a9d912d95661885e1cb135e250c2",
+      "formula_count": 78,
+      "issues": [],
+      "github_formula_count": 78
+    },
+    {
+      "path": "具体数学/第05章-二项式系数/5.1.8-机械求和法.md",
+      "sha256": "af3d4ea374f69b90582eff4125f2ed68c60a8cff11e34bc516329b608bee7109",
+      "formula_count": 71,
+      "issues": [],
+      "github_formula_count": 71
+    },
+    {
+      "path": "具体数学/第05章-二项式系数/README.md",
+      "sha256": "4cb21c3599dcba9591bdc0a1c12b5e87445a77dccebf489d33eef0b097671609",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    },
+    {
+      "path": "具体数学/第06章-特殊的数/6.1.1-斯特林数.md",
+      "sha256": "667deabeca29ea6e36854f5d7e6393f4e7218ba742cf5aeaa412630778684676",
+      "formula_count": 78,
+      "issues": [],
+      "github_formula_count": 78
+    },
+    {
+      "path": "具体数学/第06章-特殊的数/6.1.2-欧拉数.md",
+      "sha256": "64719224265a8589595286431448dd753d9253de2fdc3920fc8b7420b0999288",
+      "formula_count": 67,
+      "issues": [],
+      "github_formula_count": 67
+    },
+    {
+      "path": "具体数学/第06章-特殊的数/6.1.3-调和数.md",
+      "sha256": "7c6fb6e7d40126f85baafdbec8c14b8e9aa883549c107203cf6e9985fc7acac1",
+      "formula_count": 71,
+      "issues": [],
+      "github_formula_count": 71
+    },
+    {
+      "path": "具体数学/第06章-特殊的数/6.1.4-调和求和法.md",
+      "sha256": "c8310e16533cd5368c5f35f5e72d5d8ce1e06242f003ee589e2b6e1545401692",
+      "formula_count": 71,
+      "issues": [],
+      "github_formula_count": 71
+    },
+    {
+      "path": "具体数学/第06章-特殊的数/6.1.5-伯努利数.md",
+      "sha256": "4e4facf30b40a26fa829ce5b82e05e0dc1ec45a3d41d5cc1df735ae3041900ec",
+      "formula_count": 79,
+      "issues": [],
+      "github_formula_count": 79
+    },
+    {
+      "path": "具体数学/第06章-特殊的数/6.1.6-斐波那契数.md",
+      "sha256": "c9eb8cd4675b79095f1d2e27bd70be97ec285b9ee96839cc44198be1ba99deab",
+      "formula_count": 76,
+      "issues": [],
+      "github_formula_count": 76
+    },
+    {
+      "path": "具体数学/第06章-特殊的数/6.1.7-连项式.md",
+      "sha256": "5c4a924ee85b268749b3231ddcb184c58eccebae0131fd115fb07e4500c8e9ae",
+      "formula_count": 73,
+      "issues": [],
+      "github_formula_count": 73
+    },
+    {
+      "path": "具体数学/第06章-特殊的数/README.md",
+      "sha256": "7e7f96bd0785df393e0a6916a880b791806d8d26f36a61032576da2151a4270e",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    },
+    {
+      "path": "具体数学/第07章-生成函数/7.1.1-多米诺理论与换零钱.md",
+      "sha256": "361303a5c6515d0a254e7c1232b5ff1c9b68902768fc8b017df38f31492d689f",
+      "formula_count": 72,
+      "issues": [],
+      "github_formula_count": 72
+    },
+    {
+      "path": "具体数学/第07章-生成函数/7.1.2-基本策略.md",
+      "sha256": "4adf8fee4970350c30b765cf117894bd43076fac2e6b29e3f93e7ca96d287fb5",
+      "formula_count": 98,
+      "issues": [],
+      "github_formula_count": 98
+    },
+    {
+      "path": "具体数学/第07章-生成函数/7.1.3-解递归式.md",
+      "sha256": "6314844b31863de46a781b1468635c684b90afbc158574970901b8b5231e63bd",
+      "formula_count": 72,
+      "issues": [],
+      "github_formula_count": 72
+    },
+    {
+      "path": "具体数学/第07章-生成函数/7.1.4-特殊的生成函数.md",
+      "sha256": "ebbc4bf7894a76e5af1573f131f9b4339470f6ed21fac63618fb594caec63dcf",
+      "formula_count": 81,
+      "issues": [],
+      "github_formula_count": 81
+    },
+    {
+      "path": "具体数学/第07章-生成函数/7.1.5-卷积.md",
+      "sha256": "cb55aca5452b5a71d31a9f748cd3c235709a6e654bf649274410d946d9c5224b",
+      "formula_count": 71,
+      "issues": [],
+      "github_formula_count": 71
+    },
+    {
+      "path": "具体数学/第07章-生成函数/7.1.6-指数生成函数.md",
+      "sha256": "75c471fe48254dd16e3c767149afe01aa09084183d1ae9b9553a47a1d1e4b40d",
+      "formula_count": 85,
+      "issues": [],
+      "github_formula_count": 85
+    },
+    {
+      "path": "具体数学/第07章-生成函数/7.1.7-狄利克雷生成函数.md",
+      "sha256": "d1455c75ddb04502215ab7d4e211eedd6e24715f5749bcfcb68d6b124db6563f",
+      "formula_count": 65,
+      "issues": [],
+      "github_formula_count": 65
+    },
+    {
+      "path": "具体数学/第07章-生成函数/README.md",
+      "sha256": "eb4d74492d93b461a7432e8a45dada91d2ea10d40d7aca9c3abec227d6d06bc0",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    },
+    {
+      "path": "具体数学/第08章-离散概率/8.1.1-定义.md",
+      "sha256": "47467ddcc2165dc83b63afbea24a72901962986c975802677a6d6e9e800d35fc",
+      "formula_count": 63,
+      "issues": [],
+      "github_formula_count": 63
+    },
+    {
+      "path": "具体数学/第08章-离散概率/8.1.2-均值和方差.md",
+      "sha256": "871b4047b1e75bb610e73cd319230c034f42230d089c13a8927ca8b5ba152c37",
+      "formula_count": 73,
+      "issues": [],
+      "github_formula_count": 73
+    },
+    {
+      "path": "具体数学/第08章-离散概率/8.1.3-概率生成函数.md",
+      "sha256": "46de596240140340fae5533bfe55a544090ef706766613088c9264bbcee44227",
+      "formula_count": 78,
+      "issues": [],
+      "github_formula_count": 78
+    },
+    {
+      "path": "具体数学/第08章-离散概率/8.1.4-抛掷硬币.md",
+      "sha256": "e86f308efdbcc03c2989dd1aad7f012fd7ba13220211f0945daf61ab0485c8f9",
+      "formula_count": 80,
+      "issues": [],
+      "github_formula_count": 80
+    },
+    {
+      "path": "具体数学/第08章-离散概率/8.1.5-散列法.md",
+      "sha256": "b5b57c380102c82714d22d961a8dc7411a5be61a5e988ee206226f7662f3e082",
+      "formula_count": 80,
+      "issues": [],
+      "github_formula_count": 80
+    },
+    {
+      "path": "具体数学/第08章-离散概率/README.md",
+      "sha256": "8c8a24b2c2af7d2d89ab6d7f26c2134c1a40862b2b2cd48205bc819a06bf2dcb",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    },
+    {
+      "path": "具体数学/第09章-渐近式/9.1.1-量的等级.md",
+      "sha256": "ec041a75dce7bc23e23dc156d0f7f5277c4c531f0aab1874e2ee64b4f976d345",
+      "formula_count": 68,
+      "issues": [],
+      "github_formula_count": 68
+    },
+    {
+      "path": "具体数学/第09章-渐近式/9.1.2-大O记号.md",
+      "sha256": "dd20007c12fa5b16717d25c0bf2fc5a8897173e9f923d87c02cb1b47d2cbab13",
+      "formula_count": 79,
+      "issues": [],
+      "github_formula_count": 79
+    },
+    {
+      "path": "具体数学/第09章-渐近式/9.1.3-O运算规则.md",
+      "sha256": "03a2058e874026dcf6b26605b089c060474f7665b81bd3f92902cf37386685ea",
+      "formula_count": 79,
+      "issues": [],
+      "github_formula_count": 79
+    },
+    {
+      "path": "具体数学/第09章-渐近式/9.1.4-两个渐近技巧.md",
+      "sha256": "c244ff07b5a5c8f40181bf667b08c29199ad9d271202ceebf13f2489ff47ba2c",
+      "formula_count": 74,
+      "issues": [],
+      "github_formula_count": 74
+    },
+    {
+      "path": "具体数学/第09章-渐近式/9.1.5-欧拉求和公式.md",
+      "sha256": "b3f807bb68b24a9fb3f874c85f92e927c5e6fd25475e420426c1751bde5cd84f",
+      "formula_count": 58,
+      "issues": [],
+      "github_formula_count": 58
+    },
+    {
+      "path": "具体数学/第09章-渐近式/9.1.6-最后的求和法.md",
+      "sha256": "a5458a036a15c2e3ab7412b0dc4a9167b4f96fc25c88d9f5c8d2f7e1c334c47e",
+      "formula_count": 78,
+      "issues": [],
+      "github_formula_count": 78
+    },
+    {
+      "path": "具体数学/第09章-渐近式/README.md",
+      "sha256": "6417dbb92492aa50b7dd18be6a5ba1505c0fdd067d66905bb6e4528cf76e4a6d",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    },
+    {
+      "path": "计算机程序设计艺术/00-导言.md",
+      "sha256": "763e3a71f7e966838ffc10926f1001fcfd88b5aac49acff9f0551085adcadbee",
+      "formula_count": 14,
+      "issues": [],
+      "github_formula_count": 14
+    },
+    {
+      "path": "计算机程序设计艺术/README.md",
+      "sha256": "eb4f36e031e6a9597c547cd117360ad1636508208094fb3aa37613e90e2b1ef6",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    },
+    {
+      "path": "计算机程序设计艺术/verification/README.md",
+      "sha256": "44559a6f2115577bef23dcbf939377f9b6da1980619ceb985a89ef04de899816",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    },
+    {
+      "path": "计算机程序设计艺术/第1卷-基本算法/README.md",
+      "sha256": "cf5944b9c005c9f82acff72007617ea145aabb64594de0c609e7194981378238",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    },
+    {
+      "path": "计算机程序设计艺术/第1卷-基本算法/第01章-基本概念/1.1-算法.md",
+      "sha256": "b8f9bc075e6353ee28d76ab5c4a803a769543dd310bc346c5318b438786d06b0",
+      "formula_count": 53,
+      "issues": [],
+      "github_formula_count": 53
+    },
+    {
+      "path": "计算机程序设计艺术/第1卷-基本算法/第01章-基本概念/1.2-数学准备.md",
+      "sha256": "f8d4dcce203b6cc8722841a4c5fbdb0e28581fe345a4094f17b20bb8f2c8e6d7",
+      "formula_count": 125,
+      "issues": [],
+      "github_formula_count": 125
+    },
+    {
+      "path": "计算机程序设计艺术/第1卷-基本算法/第01章-基本概念/1.3-MIX.md",
+      "sha256": "f14c1041c3181b831d795742410572adb29a913c3e704f8d74719b4898b60a48",
+      "formula_count": 24,
+      "issues": [],
+      "github_formula_count": 24
+    },
+    {
+      "path": "计算机程序设计艺术/第1卷-基本算法/第01章-基本概念/1.4-某些基本程序设计技术.md",
+      "sha256": "e87da6b28e6f3431d9eebb7b23b5b2764147526e729761dc1a44e831d22cc3c5",
+      "formula_count": 13,
+      "issues": [],
+      "github_formula_count": 13
+    },
+    {
+      "path": "计算机程序设计艺术/第1卷-基本算法/第01章-基本概念/README.md",
+      "sha256": "59a1659f322f43034e79fd44321561b62fc3e48054c2d5e9c81d1c6a7118ad94",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    },
+    {
+      "path": "计算机程序设计艺术/第1卷-基本算法/第02章-信息结构/2.1-引论.md",
+      "sha256": "c24a98aa8d0bea44181fac9d78fa57921d4584945939ecd648c207889b3f41c9",
+      "formula_count": 2,
+      "issues": [],
+      "github_formula_count": 2
+    },
+    {
+      "path": "计算机程序设计艺术/第1卷-基本算法/第02章-信息结构/2.2-线性表.md",
+      "sha256": "a686230805349b7e8ae946d3a9a845f53e1f5ca317f41a31c52d0258998853db",
+      "formula_count": 39,
+      "issues": [],
+      "github_formula_count": 39
+    },
+    {
+      "path": "计算机程序设计艺术/第1卷-基本算法/第02章-信息结构/2.3-树.md",
+      "sha256": "66a97840085f5905308b9133e017cf5adc68bc76c1c975927e87c0a66b0ce63e",
+      "formula_count": 43,
+      "issues": [],
+      "github_formula_count": 43
+    },
+    {
+      "path": "计算机程序设计艺术/第1卷-基本算法/第02章-信息结构/2.4-多重链接结构.md",
+      "sha256": "fd094807c277d808b67eba005f96f5e2b39ca021832df06ab9f263044ada89ad",
+      "formula_count": 8,
+      "issues": [],
+      "github_formula_count": 8
+    },
+    {
+      "path": "计算机程序设计艺术/第1卷-基本算法/第02章-信息结构/2.5-动态存储分配.md",
+      "sha256": "2e6e67bcd9329d6c200e2e576dc84d2c8a68a3c67355eafd193a298f1f3d5ac7",
+      "formula_count": 29,
+      "issues": [],
+      "github_formula_count": 29
+    },
+    {
+      "path": "计算机程序设计艺术/第1卷-基本算法/第02章-信息结构/2.6-历史和文献.md",
+      "sha256": "7666409bb2597c3aa36f3f1a69d6aeb2f1cc86995097b7caab3b485f5e603c44",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    },
+    {
+      "path": "计算机程序设计艺术/第1卷-基本算法/第02章-信息结构/README.md",
+      "sha256": "9db3b2d6008b389e26617474f7d28211b2c6e0e21c43be4a0775c5ec47e4e07e",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    },
+    {
+      "path": "计算机程序设计艺术/第2卷-半数值算法/README.md",
+      "sha256": "b32deb38dccca8e98d814b3072cb079937ff2425f67805c39e1f92d65d2d0dc8",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    },
+    {
+      "path": "计算机程序设计艺术/第2卷-半数值算法/第03章-随机数/3.1-引言.md",
+      "sha256": "dcf153d11ad8e5e69f0befb890dc2c8af9c2dba8063f33544279af23a5a228b9",
+      "formula_count": 23,
+      "issues": [],
+      "github_formula_count": 23
+    },
+    {
+      "path": "计算机程序设计艺术/第2卷-半数值算法/第03章-随机数/3.2-生成一致随机数.md",
+      "sha256": "1ac59a7ce3154e42273d90463a8063f68df8183cfb5ce2ad9c22280b4e14f279",
+      "formula_count": 57,
+      "issues": [],
+      "github_formula_count": 57
+    },
+    {
+      "path": "计算机程序设计艺术/第2卷-半数值算法/第03章-随机数/3.3-统计检验.md",
+      "sha256": "cde9bacde8a20c36ed857dbcf3b2b30183314eb715e0caa4f676b7fa8af305b2",
+      "formula_count": 37,
+      "issues": [],
+      "github_formula_count": 37
+    },
+    {
+      "path": "计算机程序设计艺术/第2卷-半数值算法/第03章-随机数/3.4-其它类型的随机量.md",
+      "sha256": "9e31bbe31e599795b97f4cb1510e5ee0a37c6d53763f6cdeb723dca05f352b65",
+      "formula_count": 83,
+      "issues": [],
+      "github_formula_count": 83
+    },
+    {
+      "path": "计算机程序设计艺术/第2卷-半数值算法/第03章-随机数/3.5-什么是随机序列.md",
+      "sha256": "637c3aaced1043a5c24f1db52d8abbfa3e402a7f95d78da333cdce4882ab3f26",
+      "formula_count": 30,
+      "issues": [],
+      "github_formula_count": 30
+    },
+    {
+      "path": "计算机程序设计艺术/第2卷-半数值算法/第03章-随机数/3.6-小结.md",
+      "sha256": "8fba3e8042eb10f542e117e34b1bdf085bcbf8a1b9a688bf99703c2884fe4042",
+      "formula_count": 22,
+      "issues": [],
+      "github_formula_count": 22
+    },
+    {
+      "path": "计算机程序设计艺术/第2卷-半数值算法/第03章-随机数/README.md",
+      "sha256": "e7838ab6aae07c800d294df8082d0818ae11cc57a054c4e6c094d600a0b2993f",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    },
+    {
+      "path": "计算机程序设计艺术/第2卷-半数值算法/第04章-算术/4.1-定位计数系统.md",
+      "sha256": "793cb77ed4b4ef959215aafe4f9e072f809bf72a46cbe4f78defb865290013c2",
+      "formula_count": 45,
+      "issues": [],
+      "github_formula_count": 45
+    },
+    {
+      "path": "计算机程序设计艺术/第2卷-半数值算法/第04章-算术/4.2-浮点算术.md",
+      "sha256": "8b5bfc85cfabd65582d0d5657208a8c40394c85337902d28825da77eb0ec5012",
+      "formula_count": 38,
+      "issues": [],
+      "github_formula_count": 38
+    },
+    {
+      "path": "计算机程序设计艺术/第2卷-半数值算法/第04章-算术/4.3-多精度算术.md",
+      "sha256": "102dbfca3f8c605c9616ba8ea4482881bdc2e6ef50181e6346036e972809f3f9",
+      "formula_count": 45,
+      "issues": [],
+      "github_formula_count": 45
+    },
+    {
+      "path": "计算机程序设计艺术/第2卷-半数值算法/第04章-算术/4.4-进制转换.md",
+      "sha256": "803fecb00cb81eccc3d7e4f751fd3dae71a9e1690301d1d249b5b58b650ff3c2",
+      "formula_count": 57,
+      "issues": [],
+      "github_formula_count": 57
+    },
+    {
+      "path": "计算机程序设计艺术/第2卷-半数值算法/第04章-算术/4.5-有理算术.md",
+      "sha256": "ea02993d5620231d5d46cfcf08e9317f4408891da3472466324b1242af19a4b7",
+      "formula_count": 73,
+      "issues": [],
+      "github_formula_count": 73
+    },
+    {
+      "path": "计算机程序设计艺术/第2卷-半数值算法/第04章-算术/4.6-多项式算术.md",
+      "sha256": "06930f16b88098a37be6cfa2839fe8647fe57049b54e765cecef24409225e393",
+      "formula_count": 79,
+      "issues": [],
+      "github_formula_count": 79
+    },
+    {
+      "path": "计算机程序设计艺术/第2卷-半数值算法/第04章-算术/4.7-幂级数的操作.md",
+      "sha256": "c9198722e27b341e1f7e373cf0563e789f68d0c9aff435fe92ba8c84d92893ad",
+      "formula_count": 92,
+      "issues": [],
+      "github_formula_count": 92
+    },
+    {
+      "path": "计算机程序设计艺术/第2卷-半数值算法/第04章-算术/README.md",
+      "sha256": "ab66e204257ea39c705eba40ccf0a01637c475d80cd214ce78eb0629b5175115",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    },
+    {
+      "path": "计算机程序设计艺术/第3卷-排序与查找/README.md",
+      "sha256": "fbeaeda3ed682acf1f9dda9f9a90978735904d7a555a1d45f26a0cb4199312f0",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    },
+    {
+      "path": "计算机程序设计艺术/第3卷-排序与查找/第05章-排序/5.1-排列的组合性质.md",
+      "sha256": "6c756fbece60cb2c64d86c8e14167a6e519738babda3a98d2e016c3c41b1007a",
+      "formula_count": 77,
+      "issues": [],
+      "github_formula_count": 77
+    },
+    {
+      "path": "计算机程序设计艺术/第3卷-排序与查找/第05章-排序/5.2-内部排序.md",
+      "sha256": "14ab325e773674ca8688a965ac4629c1b173ae440449b3d71a5df9ba8ad1ad1d",
+      "formula_count": 47,
+      "issues": [],
+      "github_formula_count": 47
+    },
+    {
+      "path": "计算机程序设计艺术/第3卷-排序与查找/第05章-排序/5.3-最优排序.md",
+      "sha256": "393f60039c660ec66c91c215fb07eaaff0839c605884b945122f5c080c489511",
+      "formula_count": 50,
+      "issues": [],
+      "github_formula_count": 50
+    },
+    {
+      "path": "计算机程序设计艺术/第3卷-排序与查找/第05章-排序/5.4-外部排序.md",
+      "sha256": "864119fef7d6064ae0829a93c53b4ce4ebb761641829edbd02fdab6fb6865136",
+      "formula_count": 32,
+      "issues": [],
+      "github_formula_count": 32
+    },
+    {
+      "path": "计算机程序设计艺术/第3卷-排序与查找/第05章-排序/5.5-小结历史和文献目录.md",
+      "sha256": "4ca37f4a3f68f4e7a30735cdc5684beb0d087bc2330616397167a9090f338167",
+      "formula_count": 5,
+      "issues": [],
+      "github_formula_count": 5
+    },
+    {
+      "path": "计算机程序设计艺术/第3卷-排序与查找/第05章-排序/README.md",
+      "sha256": "b9dd54fd76354b2be843727d8d19065449d87d9a8a1bd1c07d74ce2c2e13b840",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    },
+    {
+      "path": "计算机程序设计艺术/第3卷-排序与查找/第06章-查找/6.1-顺序查找.md",
+      "sha256": "28c344c8df33be80422ef80e7f410a597d8843b0a7c589541fb041f974400ff5",
+      "formula_count": 52,
+      "issues": [],
+      "github_formula_count": 52
+    },
+    {
+      "path": "计算机程序设计艺术/第3卷-排序与查找/第06章-查找/6.2-通过键码比较进行查找.md",
+      "sha256": "e8b608d3c25893ec0a37ce5428be6529ca36e6c9f0ca1814c16643cf11f252e0",
+      "formula_count": 66,
+      "issues": [],
+      "github_formula_count": 66
+    },
+    {
+      "path": "计算机程序设计艺术/第3卷-排序与查找/第06章-查找/6.3-数字查找.md",
+      "sha256": "bb748d5bb1aeb6a313e8d9953116c9a7ce5c5e833a85ffa89617824407b5811e",
+      "formula_count": 21,
+      "issues": [],
+      "github_formula_count": 21
+    },
+    {
+      "path": "计算机程序设计艺术/第3卷-排序与查找/第06章-查找/6.4-散列.md",
+      "sha256": "bbe2179c86894e2fa1c736f27abaf33bfb7f87e8f2e042ff9ac789df4127df3e",
+      "formula_count": 32,
+      "issues": [],
+      "github_formula_count": 32
+    },
+    {
+      "path": "计算机程序设计艺术/第3卷-排序与查找/第06章-查找/6.5-利用辅助键码的查找.md",
+      "sha256": "e8fd6102be7c908f77f158692e25fdd0f451b5e3ebf3096b38bb3e816ed360e2",
+      "formula_count": 45,
+      "issues": [],
+      "github_formula_count": 45
+    },
+    {
+      "path": "计算机程序设计艺术/第3卷-排序与查找/第06章-查找/README.md",
+      "sha256": "bce9d7fac062a5872e8aae104746d64155c25e70cf682fd7b6f2d1d05d0149c5",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    },
+    {
+      "path": "计算机程序设计艺术/第4卷-组合算法/MPR-数学准备再探.md",
+      "sha256": "1719a9f4781fd54a9934209bf3b2ddf1425de99c4790174866e2024638c4b565",
+      "formula_count": 144,
+      "issues": [],
+      "github_formula_count": 144
+    },
+    {
+      "path": "计算机程序设计艺术/第4卷-组合算法/README.md",
+      "sha256": "e34c9e68cadbafa72a556602a7d773f68e12d1eff113fc08be107d05e0798c15",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    },
+    {
+      "path": "计算机程序设计艺术/第4卷-组合算法/第07章-组合查找/7.1-0和1.md",
+      "sha256": "cca44017c643fb55ef8c44b581f3d15ec34defea2b5d6347342c9b0fe8a8d560",
+      "formula_count": 71,
+      "issues": [],
+      "github_formula_count": 71
+    },
+    {
+      "path": "计算机程序设计艺术/第4卷-组合算法/第07章-组合查找/7.1.1-布尔基础.md",
+      "sha256": "8fdf05385a3a11403082df3982ba61c1c766a6ff4b9994cbfd70394f35a76e0e",
+      "formula_count": 206,
+      "issues": [],
+      "github_formula_count": 206
+    },
+    {
+      "path": "计算机程序设计艺术/第4卷-组合算法/第07章-组合查找/7.1.2-布尔求值.md",
+      "sha256": "4473fedc8545fec5cefa928a4a8e300a1e31e8cec3123fa181aafe5ff674f6fd",
+      "formula_count": 93,
+      "issues": [],
+      "github_formula_count": 93
+    },
+    {
+      "path": "计算机程序设计艺术/第4卷-组合算法/第07章-组合查找/7.1.3-位运算技巧与技术.md",
+      "sha256": "93c3c1a3f95d6af93e948e239c8445836602d5b2ebf12e0da67d04c85501ff7e",
+      "formula_count": 96,
+      "issues": [],
+      "github_formula_count": 96
+    },
+    {
+      "path": "计算机程序设计艺术/第4卷-组合算法/第07章-组合查找/7.1.4-二叉判定图.md",
+      "sha256": "59aa64a3d35fcf4e0b696d320d5c2461b5ddd928edf5b5241e745f683e5d2126",
+      "formula_count": 81,
+      "issues": [],
+      "github_formula_count": 81
+    },
+    {
+      "path": "计算机程序设计艺术/第4卷-组合算法/第07章-组合查找/7.2-生成所有可能性.md",
+      "sha256": "5f95342a200996e0d66734f8e2afa7adbc701d6742fd2ff505fbaf26dc49bc6e",
+      "formula_count": 68,
+      "issues": [],
+      "github_formula_count": 68
+    },
+    {
+      "path": "计算机程序设计艺术/第4卷-组合算法/第07章-组合查找/7.2.1.1-生成所有元组.md",
+      "sha256": "61a7345108734f4ff964ee153b751618faade5c458e12a545aeb029219fb0004",
+      "formula_count": 12,
+      "issues": [],
+      "github_formula_count": 12
+    },
+    {
+      "path": "计算机程序设计艺术/第4卷-组合算法/第07章-组合查找/7.2.1.2-生成所有排列.md",
+      "sha256": "fce56b767d8974bbba3f0db00ec37c01524c49cf14b235a570d2b54221b08d18",
+      "formula_count": 11,
+      "issues": [],
+      "github_formula_count": 11
+    },
+    {
+      "path": "计算机程序设计艺术/第4卷-组合算法/第07章-组合查找/7.2.1.3-生成所有组合.md",
+      "sha256": "1c0195f0cf204f13284ae0b552bb01c58718042f9a22203fdc8077f0e92dba9d",
+      "formula_count": 18,
+      "issues": [],
+      "github_formula_count": 18
+    },
+    {
+      "path": "计算机程序设计艺术/第4卷-组合算法/第07章-组合查找/7.2.1.4-生成所有整数分划.md",
+      "sha256": "b83474e862e5d27069300280ffeb7b6ce38e6c2712917a1cff1afb7f336575c3",
+      "formula_count": 19,
+      "issues": [],
+      "github_formula_count": 19
+    },
+    {
+      "path": "计算机程序设计艺术/第4卷-组合算法/第07章-组合查找/7.2.1.5-生成所有集合分划.md",
+      "sha256": "a7426132a2f1640b937f717409865a25e2465dd2b50c276825daeecccd955498",
+      "formula_count": 18,
+      "issues": [],
+      "github_formula_count": 18
+    },
+    {
+      "path": "计算机程序设计艺术/第4卷-组合算法/第07章-组合查找/7.2.1.6-生成所有树.md",
+      "sha256": "a14bbba3e9f39a25ef8a539413e0837ec573016fbed3219a30c253b469069ba7",
+      "formula_count": 11,
+      "issues": [],
+      "github_formula_count": 11
+    },
+    {
+      "path": "计算机程序设计艺术/第4卷-组合算法/第07章-组合查找/7.2.1.7-组合生成的历史与参考.md",
+      "sha256": "097ea6fd88d020cc3c983d365c56ecf5311965f56f2bebe648d1123781d4f9e0",
+      "formula_count": 9,
+      "issues": [],
+      "github_formula_count": 9
+    },
+    {
+      "path": "计算机程序设计艺术/第4卷-组合算法/第07章-组合查找/7.2.2-回溯程序设计.md",
+      "sha256": "11a25adad9e9b3f9703c9da24dbb1d8c10f17c04e5aa1655e5aac18fb753e738",
+      "formula_count": 13,
+      "issues": [],
+      "github_formula_count": 13
+    },
+    {
+      "path": "计算机程序设计艺术/第4卷-组合算法/第07章-组合查找/7.2.2.1-舞蹈链与精确覆盖.md",
+      "sha256": "4d15f564cbb9d3fcd80eb7ce4cc8d4ca89f441b07c9920c02d2704431bf7dac8",
+      "formula_count": 2,
+      "issues": [],
+      "github_formula_count": 2
+    },
+    {
+      "path": "计算机程序设计艺术/第4卷-组合算法/第07章-组合查找/7.2.2.2-可满足性SAT.md",
+      "sha256": "7cc97d65f4eab2a6a80f2f85316f410713cef832e1fc0d9b2ac79c856402b54c",
+      "formula_count": 10,
+      "issues": [],
+      "github_formula_count": 10
+    },
+    {
+      "path": "计算机程序设计艺术/第4卷-组合算法/第07章-组合查找/README.md",
+      "sha256": "97f1fa3b0fe327ca6e57342cf5268e3afea455f180132e2df09f86d8332f5c3e",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    },
+    {
+      "path": "计算机程序设计艺术/资料与范围.md",
+      "sha256": "7923f1e7adf7d0948b699f59243a6334fc51a0339e410960c0a47b6e3b3a2f8c",
+      "formula_count": 0,
+      "issues": [],
+      "github_formula_count": 0
+    }
+  ],
+  "limitations": "Checks rendering syntax and Markdown preservation, not the validity of every mathematical proof."
+}
