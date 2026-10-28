@@ -20,7 +20,7 @@
       "block": 1,
       "result": "passed",
       "output": "半整数、差分、反演和错排核验通过",
-      "characters": 5156
+      "characters": 5170
     },
     {
       "file": "5.1.4-生成函数.md",

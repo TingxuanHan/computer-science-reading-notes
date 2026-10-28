@@ -7,7 +7,6 @@ from concurrent.futures import ThreadPoolExecutor
 from dataclasses import dataclass
 from datetime import datetime, timedelta, timezone
 from difflib import SequenceMatcher
-from html import unescape
 from html.parser import HTMLParser
 from pathlib import Path
 import argparse
@@ -83,6 +82,9 @@ def github_compatible_math(text, indices=None):
         tex = re.sub(r'\\operatorname\{([^{}]+)\}',
             lambda m: r'\mathop{\mathrm{' + m[1] + r'}}\nolimits ', formula.tex)
         tex = re.sub(r'\\nolimits(?=[A-Za-z])', lambda _: r'\nolimits ', tex)
+        # The live renderer reparses its text as HTML. Explicit math commands
+        # cannot be mistaken for an opening HTML tag, even before a letter.
+        tex = tex.replace('<', r'\lt ')
         if formula.display:
             # GitHub's GFM API appends a backslash to an escaped line ending,
             # even in a math fence. Keep the row break explicit.
@@ -91,6 +93,16 @@ def github_compatible_math(text, indices=None):
         replacement = '```math\n' + tex + '\n```' if formula.display else '$`' + tex + '`$'
         text = text[:formula.start] + replacement + text[formula.end:]
     return text
+
+
+class ClientText(HTMLParser):
+    """Match the renderer's createHTMLDocument(...).body.textContent step."""
+    def __init__(self):
+        super().__init__(convert_charrefs=True)
+        self.parts = []
+
+    def handle_data(self, data):
+        self.parts.append(data)
 
 
 class MathHTML(HTMLParser):
@@ -109,8 +121,12 @@ class MathHTML(HTMLParser):
 
     def handle_endtag(self, tag):
         if tag == 'math-renderer' and self.current is not None:
-            # The live renderer decodes entities once again before tex2mml.
-            text = unescape(''.join(self.current)).strip()
+            # GitHub parses the text as HTML again before tex2mml. A raw '<'
+            # followed by a letter can be swallowed as an HTML tag here.
+            decoded = ClientText()
+            decoded.feed('<html><body>' + ''.join(self.current) + '</body></html>')
+            decoded.close()
+            text = ''.join(decoded.parts).strip()
             text = re.sub(r'^\${1,2}|\${1,2}$', '', text).strip()
             self.items.append(text)
             self.current = None
@@ -178,7 +194,13 @@ def audit(use_github=False, output=None):
 
     if use_github:
         def check(record):
-            actual = github_render(record['_text'])
+            try:
+                actual = github_render(record['_text'])
+            except (RuntimeError, subprocess.TimeoutExpired) as error:
+                record['issues'].append({'kind': 'github_request_failed',
+                    'message': str(error)[:1500]})
+                print(f"GitHub {record['path']}: request failed; rerun to retry", flush=True)
+                return
             expected = record['_formulas']
             if len(actual) != len(expected):
                 record['issues'].append({'kind': 'formula_count',
@@ -209,6 +231,7 @@ def audit(use_github=False, output=None):
         'github_renderer_asset': 'https://github.githubassets.com/assets/chunk-lazy-element-math-renderer-d9906def89b0b710.js',
         'github_mathjax_asset': 'https://github.githubassets.com/assets/chunk-52e-0bb288a2e09ef5ab.js',
         'mathjax_version': checked['version'], 'github_markdown_checked': use_github,
+        'github_client_html_decode_checked': use_github,
         'markdown_files': len(records), 'formulas': len(all_formulas),
         'issues': sum(len(r['issues']) for r in records),
         'all_passed': all(not r['issues'] for r in records), 'files': records,

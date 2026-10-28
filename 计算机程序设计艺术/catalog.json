@@ -30,7 +30,7 @@
       "source_documents": [
         "计算机程序设计艺术（第1卷）基本算法（第3版） 2002.pdf"
       ],
-      "sha256": "b8f9bc075e6353ee28d76ab5c4a803a769543dd310bc346c5318b438786d06b0",
+      "sha256": "a1309d34a1073bbb5463709fbf580c241ba4f855ab5e9a8e41f62b31acf39766",
       "python_blocks": 1
     },
     {
@@ -60,7 +60,7 @@
       "source_documents": [
         "计算机程序设计艺术（第1卷）基本算法（第3版） 2002.pdf"
       ],
-      "sha256": "f14c1041c3181b831d795742410572adb29a913c3e704f8d74719b4898b60a48",
+      "sha256": "ec54e48a3ac31405f69041dd0e89442f028dc51f57dbfda88d8bd961f943c033",
       "python_blocks": 2
     },
     {
@@ -195,7 +195,7 @@
       "source_documents": [
         "计算机程序设计艺术（第2卷）半数值算法.pdf"
       ],
-      "sha256": "1ac59a7ce3154e42273d90463a8063f68df8183cfb5ce2ad9c22280b4e14f279",
+      "sha256": "2bd83c5448e1a4672566c1820f9239d7ea10e86946a0e0b4b29477bfddea6338",
       "python_blocks": 1
     },
     {
@@ -240,7 +240,7 @@
       "source_documents": [
         "计算机程序设计艺术（第2卷）半数值算法.pdf"
       ],
-      "sha256": "637c3aaced1043a5c24f1db52d8abbfa3e402a7f95d78da333cdce4882ab3f26",
+      "sha256": "4a805b8bab5853b930dfe1ff004c7df4dd9642eb2131d65c1729537da33497b8",
       "python_blocks": 1
     },
     {
@@ -270,7 +270,7 @@
       "source_documents": [
         "计算机程序设计艺术（第2卷）半数值算法.pdf"
       ],
-      "sha256": "793cb77ed4b4ef959215aafe4f9e072f809bf72a46cbe4f78defb865290013c2",
+      "sha256": "716281d4fe509e3b6c44ed8f35516f8db8f425e87ac6f5f974588ff8628e1f1f",
       "python_blocks": 1
     },
     {
@@ -285,7 +285,7 @@
       "source_documents": [
         "计算机程序设计艺术（第2卷）半数值算法.pdf"
       ],
-      "sha256": "8b5bfc85cfabd65582d0d5657208a8c40394c85337902d28825da77eb0ec5012",
+      "sha256": "41ac2fadeea8f635f1b725817977521f8ea22acb20e4dec0b3bc8230039a2d60",
       "python_blocks": 1
     },
     {
@@ -300,7 +300,7 @@
       "source_documents": [
         "计算机程序设计艺术（第2卷）半数值算法.pdf"
       ],
-      "sha256": "102dbfca3f8c605c9616ba8ea4482881bdc2e6ef50181e6346036e972809f3f9",
+      "sha256": "8da1308c414abf51e038d22052d14c915dde324947c6883d80c93043796b9a89",
       "python_blocks": 1
     },
     {
@@ -315,7 +315,7 @@
       "source_documents": [
         "计算机程序设计艺术（第2卷）半数值算法.pdf"
       ],
-      "sha256": "803fecb00cb81eccc3d7e4f751fd3dae71a9e1690301d1d249b5b58b650ff3c2",
+      "sha256": "a36070ce009b8293345b47a3a80c735b40027cc6728a4a38b9c75dac37ae0eaf",
       "python_blocks": 1
     },
     {
@@ -375,7 +375,7 @@
       "source_documents": [
         "计算机程序设计艺术（第3卷）排序与查找.pdf"
       ],
-      "sha256": "6c756fbece60cb2c64d86c8e14167a6e519738babda3a98d2e016c3c41b1007a",
+      "sha256": "4815af5c7c18afef3fb4396a0dd502b4e8d74a85a8ab59c8fbbabc1f1501e90e",
       "python_blocks": 1
     },
     {
@@ -405,7 +405,7 @@
       "source_documents": [
         "计算机程序设计艺术（第3卷）排序与查找.pdf"
       ],
-      "sha256": "393f60039c660ec66c91c215fb07eaaff0839c605884b945122f5c080c489511",
+      "sha256": "15fca74ddddc32097bdc50b0514e52d7a602e090426be19dd34c2bd72366910c",
       "python_blocks": 1
     },
     {
@@ -450,7 +450,7 @@
       "source_documents": [
         "计算机程序设计艺术（第3卷）排序与查找.pdf"
       ],
-      "sha256": "28c344c8df33be80422ef80e7f410a597d8843b0a7c589541fb041f974400ff5",
+      "sha256": "307f6ac783ed9e1b6dc77d64edc56529450f09cc14c9661189309687fcbedddf",
       "python_blocks": 1
     },
     {
@@ -465,7 +465,7 @@
       "source_documents": [
         "计算机程序设计艺术（第3卷）排序与查找.pdf"
       ],
-      "sha256": "e8b608d3c25893ec0a37ce5428be6529ca36e6c9f0ca1814c16643cf11f252e0",
+      "sha256": "f13b1cd83c0e2a581a3acd2ce9c69abaf97394da9200b9066b76df41a1688b14",
       "python_blocks": 1
     },
     {
@@ -542,7 +542,7 @@
       "source_documents": [
         "计算机程序设计艺术（第4卷）第0册（双语版）组合算法与布尔函数概论.pdf"
       ],
-      "sha256": "8fdf05385a3a11403082df3982ba61c1c766a6ff4b9994cbfd70394f35a76e0e",
+      "sha256": "9486586069d26a0f6f6fc876fa37e034b0bcc758fae8ee9513c5662cd923dcae",
       "python_blocks": 3
     },
     {
@@ -610,7 +610,7 @@
         "计算机程序设计艺术（第4卷）第5册C Dancing Links.pdf",
         "计算机程序设计艺术（第4卷）第6册A Satisfiability.pdf"
       ],
-      "sha256": "5f95342a200996e0d66734f8e2afa7adbc701d6742fd2ff505fbaf26dc49bc6e",
+      "sha256": "7f5b9341b3dddad4b9bcd5533116b648a616cfa2e2a945b116cbee60184518f4",
       "python_blocks": 3
     },
     {
@@ -657,7 +657,7 @@
       "source_documents": [
         "计算机程序设计艺术（第4卷）第3册（双语版）生成所有组合和分划.pdf"
       ],
-      "sha256": "1c0195f0cf204f13284ae0b552bb01c58718042f9a22203fdc8077f0e92dba9d",
+      "sha256": "6e2a9e7b4a293d38fb655f98df327621281fe71af1a411ffca47a3de9f852e43",
       "python_blocks": 1,
       "standalone_example": "verification/taocp_7_2_1_3_examples.py"
     },
@@ -785,7 +785,7 @@
       "source_documents": [
         "计算机程序设计艺术（第4卷）第5册A Mathematical Preliminaries Redux.pdf"
       ],
-      "sha256": "1719a9f4781fd54a9934209bf3b2ddf1425de99c4790174866e2024638c4b565",
+      "sha256": "cbe64e58c1237708e22de9f3d1a5e6a01ca57f6e6b645b793f1028a51bae6153",
       "python_blocks": 1
     }
   ]

@@ -10,7 +10,7 @@
   "ross_joint_distributions": 6560,
   "polya_states": 400,
   "bounded_stopping_and_maximum_cases": 36,
-  "body_characters": 9746,
-  "body_sha256": "71651431fc864ca133b8106f0cf90fcea08d7b3a632d8cfc5a9985dc06f4f23e",
+  "body_characters": 9749,
+  "body_sha256": "8fc08145e1307e5dfbdc284e4d5ccb9742f3efcc920c62172e834035cfa8e685",
   "limitation": "Finite exact checks support the derivations; they do not prove the general inequalities."
 }

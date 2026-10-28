@@ -125,7 +125,7 @@ Markov界的条件很少，因此也可能很松。若右边大于1，只能把�
 ```math
 \mathop{\mathrm{Var}}\nolimits\left(\sum_i X_i\right)
 =\sum_i\mathop{\mathrm{Var}}\nolimits(X_i)
-+2\sum_{i<j}\mathop{\mathrm{Cov}}\nolimits(X_i,X_j).
++2\sum_{i\lt j}\mathop{\mathrm{Cov}}\nolimits(X_i,X_j).
 ```
 
 不能因为用了期望线性性，就顺手把方差也线性拆开。

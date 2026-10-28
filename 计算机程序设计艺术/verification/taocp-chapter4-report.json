@@ -3,33 +3,33 @@
     {
       "filename": "4.1-定位计数系统.md",
       "title": "【计算机程序设计艺术 TAOCP】卷2·4.1 定位计数系统：同一个数，为什么有不同的运算法则",
-      "body_characters": 4517,
+      "body_characters": 4535,
       "python_blocks": 1,
-      "sha256": "673e0c55997f40863a5c1fab1226935631172fecbbfe2176fa4ad7bdb894f8ed",
+      "sha256": "6e12eaebe66695e107ce4375d9eca6ed7114c6e1446fba79767224d9f11cec35",
       "example_output": "[1, 1, 0, 1, 1, 1]\n[1, 0, -1]\n-13\n-128"
     },
     {
       "filename": "4.2-浮点算术.md",
       "title": "【计算机程序设计艺术 TAOCP】卷2·4.2 浮点算术：误差从哪里来，又怎样被放大",
-      "body_characters": 4724,
+      "body_characters": 4733,
       "python_blocks": 1,
-      "sha256": "d1cdf4030ecbf663ffb599bbca0970f297a064e9f2ca4f3643ca74e1ba251b11",
+      "sha256": "7691d4432338c991d7d39fa3eee32c0860fca04e9fbb394e838b44df21d09b35",
       "example_output": "0 1\n1/2000 0\n31/25\n63/50"
     },
     {
       "filename": "4.3-多精度算术.md",
       "title": "【计算机程序设计艺术 TAOCP】卷2·4.3 多精度算术：把大整数拆开以后，怎样保证每一步正确",
-      "body_characters": 4848,
+      "body_characters": 4866,
       "python_blocks": 1,
-      "sha256": "09f9a19827825b26ede2ac473a597bd3aeb2cf898a59a6f1d9042a33474aa0cf",
+      "sha256": "f9b3f8627d49bb4dec2f68ed6b60a5ca5772f5a1a040fc6a0c3a8bf98eb739a3",
       "example_output": "4001620161\n1031 16\n173"
     },
     {
       "filename": "4.4-进制转换.md",
       "title": "【计算机程序设计艺术 TAOCP】卷2·4.4 进制转换：整数取余，小数为什么要追踪余数",
-      "body_characters": 4811,
+      "body_characters": 4838,
       "python_blocks": 1,
-      "sha256": "9911c1776dd2d5e2bee4dc338a8c68dc3132ecbe90f061d2b21eb79df7ed903e",
+      "sha256": "f2db2e977abc6f5b1f3a71885eaf7a465a4493370e1646443d98d3af1ed2faad",
       "example_output": "[4, 3]\n[0, 0, 1] []\n[0] [0, 0, 1, 1]\n[0, 8] [3]"
     },
     {

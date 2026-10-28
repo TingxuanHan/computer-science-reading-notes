@@ -3,9 +3,9 @@
     {
       "filename": "5.1-排列的组合性质.md",
       "title": "【计算机程序设计艺术 TAOCP】卷3·5.1 排列的组合性质：排序之前，先量一量输入有多乱",
-      "body_characters": 5463,
+      "body_characters": 5490,
       "python_blocks": 1,
-      "sha256": "ca5eb2d07b55c966e22464934c5fa9c4e0b660863f2c484eb26e24d1e8fc4012",
+      "sha256": "ffd22f23e3c7c6c1ed98cb0c203bc930eb767ae97a30987b2ea71b91902c8cd7",
       "example_output": "[1, 2, 0, 0] 3\n[3, 1, 4, 2]\n([[1, 2], [3, 4]], [[1, 3], [2, 4]])\n[1, 11, 11, 1]"
     },
     {
@@ -19,9 +19,9 @@
     {
       "filename": "5.3-最优排序.md",
       "title": "【计算机程序设计艺术 TAOCP】卷3·5.3 最优排序：知道下界以后，为什么还不能宣布最优",
-      "body_characters": 5258,
+      "body_characters": 5282,
       "python_blocks": 1,
-      "sha256": "44a879b31dccf30d036853d80e4dd1130dc032718a481695ea45fea7eab5a7eb",
+      "sha256": "d6502f1f243b5f8e224478a1dbd266ed0159d30a11f2391f2553346c0f1488f5",
       "example_output": "5 5 16 24\n(0, 1, 0, 1)\n(1, 9, 7)"
     },
     {

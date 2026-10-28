@@ -1,5 +1,5 @@
 {
-  "verified_at": "2026-10-28T16:52:13+08:00",
+  "verified_at": "2026-10-28T17:06:57+08:00",
   "timezone": "Asia/Shanghai",
   "python_version": "3.12.14",
   "note_count": 57,
@@ -8,47 +8,47 @@
     {
       "chapter": 1,
       "result": "passed",
-      "seconds": 0.086
+      "seconds": 0.083
     },
     {
       "chapter": 2,
       "result": "passed",
-      "seconds": 0.12
+      "seconds": 0.118
     },
     {
       "chapter": 3,
       "result": "passed",
-      "seconds": 0.248
+      "seconds": 0.244
     },
     {
       "chapter": 4,
       "result": "passed",
-      "seconds": 0.149
+      "seconds": 0.144
     },
     {
       "chapter": 5,
       "result": "passed",
-      "seconds": 0.278
+      "seconds": 0.271
     },
     {
       "chapter": 6,
       "result": "passed",
-      "seconds": 0.242
+      "seconds": 0.233
     },
     {
       "chapter": 7,
       "result": "passed",
-      "seconds": 0.239
+      "seconds": 0.247
     },
     {
       "chapter": 8,
       "result": "passed",
-      "seconds": 0.275
+      "seconds": 0.273
     },
     {
       "chapter": 9,
       "result": "passed",
-      "seconds": 0.138
+      "seconds": 0.14
     }
   ]
 }

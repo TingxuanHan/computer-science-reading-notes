@@ -3,17 +3,17 @@
     {
       "filename": "6.1-顺序查找.md",
       "title": "【计算机程序设计艺术 TAOCP】卷3·6.1 顺序查找：从逐项比较，到把常用记录放在前面",
-      "body_characters": 4983,
+      "body_characters": 5001,
       "python_blocks": 1,
-      "sha256": "c40e8eb690c6c8596900919e6dafa7e23a7b628c9cd4feae4941353d91f86d1d",
+      "sha256": "a8b2a40a7c74df15f1eeb6ba8c73edd0f9382a262617b33e44ec7c5f1238cfde",
       "example_output": "(-1, 3) (-1, 4)\n5/3 7/3\n['B', 'A', 'C'] 35/6 14/3\n(2, True) [7, 4, 9]"
     },
     {
       "filename": "6.2-通过键码比较进行查找.md",
       "title": "【计算机程序设计艺术 TAOCP】卷3·6.2 通过键码比较进行查找：二分、查找树与平衡，各自解决什么问题",
-      "body_characters": 6103,
+      "body_characters": 6148,
       "python_blocks": 1,
-      "sha256": "439402e8b06561628c14515ced4b69413c7d1181fd29123b29efdbc9a1d5a417",
+      "sha256": "1f38541d79639aaa93d809bf90d013bab777d68101f3df34807d8e2bf706825f",
       "example_output": "[10, 20, 30, 40, 50, 60] 3\nTrue False\n1 3"
     },
     {

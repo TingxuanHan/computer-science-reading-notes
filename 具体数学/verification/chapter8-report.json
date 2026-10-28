@@ -12,7 +12,7 @@
       "file": "8.1.2-均值和方差.md",
       "result": "passed",
       "stdout": "不动点矩与样本方差无偏性检查通过",
-      "source_sha256": "871b4047b1e75bb610e73cd319230c034f42230d089c13a8927ca8b5ba152c37"
+      "source_sha256": "38528715385ae7e61b0afb859e2c06013fc52ccda87f83d8bd98cb6c7d63f89b"
     },
     {
       "file": "8.1.3-概率生成函数.md",
@@ -30,7 +30,7 @@
       "file": "8.1.5-散列法.md",
       "result": "passed",
       "stdout": "链式散列的均值、方差与全方差分解检查通过",
-      "source_sha256": "b5b57c380102c82714d22d961a8dc7411a5be61a5e988ee206226f7662f3e082"
+      "source_sha256": "46dc3554292b52345c22cc766ea7f70e8399490df17b58b7a13ce479779ebbd3"
     }
   ],
   "independent_checks": [

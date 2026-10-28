@@ -13,9 +13,9 @@
     {
       "filename": "3.2-生成一致随机数.md",
       "title": "【计算机程序设计艺术 TAOCP】卷2·3.2 生成一致随机数：周期很长，为什么仍然不够",
-      "body_characters": 4926,
+      "body_characters": 4935,
       "python_blocks": 1,
-      "sha256": "ba74481c172de7bc2d2f2d146c11ed688d14ab0023cf2cc942df2818208378ac",
+      "sha256": "e983f7851297a9b09dba27093eebf21172efd908f9eee94ea35745699f1165d7",
       "example_output": "True 16\n[0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1]\n5"
     },
     {
@@ -37,9 +37,9 @@
     {
       "filename": "3.5-什么是随机序列.md",
       "title": "【计算机程序设计艺术 TAOCP】卷2·3.5 什么是随机序列：均匀、不可预测和不可压缩",
-      "body_characters": 4458,
+      "body_characters": 4464,
       "python_blocks": 1,
-      "sha256": "cdf9f00dfd1eeedf032777e3909019baa9fc2e60dee365da6b958e3ec1ee4fe8",
+      "sha256": "a76e14ff4dee2a00c7256a09dcf99d119e894c16e1351641e216fc657dee15c2",
       "example_output": "1 2 4 4\n2 4 2 2\n3 8 1 1\n4 8 0 1\nperiod-8 predictor: 64 / 64"
     },
     {

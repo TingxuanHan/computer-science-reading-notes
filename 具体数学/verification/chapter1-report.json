@@ -23,7 +23,7 @@
       "note": "1.1.3-约瑟夫问题.md",
       "printed_code": "passed",
       "output": "11\n1",
-      "characters": 5644
+      "characters": 5662
     },
     {
       "josephus": "simulation n=1..500, bit rotation, fixed points, and power-of-two boundaries q=1..99 passed"
